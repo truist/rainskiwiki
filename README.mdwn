@@ -18,6 +18,8 @@ todo:
     * randomized quote
         * new solution outside ikiwiki
     * favicon
+    * CSS for screen and print
+    * Google Analytics
 * article excerpts on front page
     * tags
     * post date (N days ago)
