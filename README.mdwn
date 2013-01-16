@@ -12,6 +12,7 @@ todo:
     * archive page link
     * gallery link
     * rss / atom
+        * [don't flood aggregators](http://ikiwiki.info/tips/howto_avoid_flooding_aggregators/)
     * email subscribe
     * contact
     * (paypal)
