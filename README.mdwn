@@ -72,6 +72,8 @@ todo:
     * tag field
     * quote attribution
 * content conversion
+    * preserve permalinks to existing content
+    * what URL style is desired for new content?
     * article bodies
     * excerpts
     * images
