@@ -9,6 +9,7 @@ todo:
     * <strike>sidebar</strike>
     * <strike>search</strike>
     * tag cloud
+        * disappearing intermittently, weird
     * archive page link
     * gallery link
     * rss / atom
@@ -29,6 +30,7 @@ todo:
     * image
 * full articles
     * same stuff as excerpt
+    * title + "| rainskit.com"
     * full body
     * comment form
     * name
