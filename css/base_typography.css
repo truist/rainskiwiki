@@ -1,0 +1,44 @@
+p, blockquote, li, a {
+  font-family: Verdana, "Lucida Grande", Tahoma, Helvetica, sans-serif;
+}
+
+p, blockquote, li {
+  font-size: 0.9em;
+  line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h1 a, h2 a, h3 a, h4 a, h5 a {
+  font-weight: normal;
+  font-family: Georgia, Times, Serif;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+h1 a, h2 a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+h5, h5 a {
+  font-weight: bold;
+}
+
+code {
+  font-size: 1.1em;
+}

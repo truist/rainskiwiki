@@ -1,0 +1,41 @@
+#page_layout {
+  min-width: 40em;
+  width: 90%;
+  max-width: 65em;
+  margin: 0 auto;
+}
+
+#page_layout:after {
+  content: "."; 
+  display: block; 
+  height: 0; 
+  clear: both; 
+  visibility: hidden;
+}
+
+#head {
+  position: relative;
+  min-height: 220px;
+  margin: 0;
+}
+
+.gallery #head {
+  min-height: 145px;
+}
+
+#content {
+  float: left;
+  width: 59%;
+  min-height: 40em;
+}
+
+#sidebar {
+  float: right;
+  width: 36%;
+}
+
+#foot {
+  float: right;
+  width: 36%;
+}
+

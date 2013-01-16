@@ -1,0 +1,280 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+  color: black;
+/*  background: transparent;  /* breaks text fields */
+
+  position: static; 
+  visibility: visible;
+  clip: auto; 
+/* this should work, but it breaks IE scrollbars */
+/* overflow: visible; */
+  z-index: auto;
+
+  width: auto;
+/*  min-width: 0;  /* breaks bulleted list bullets in IE */
+  max-width: none;
+  height: auto;
+/*  min-height: 0;  /* breaks bulleted list bullets in IE */
+  max-height: none;
+  float: none;
+  clear: none;
+
+  font-style: normal;
+/* just here for debugging - this is too strong normally */
+/* font-size: 11pt;  */
+  font-variant: normal;
+  font-weight: normal;
+  font-family: sans-serif;
+
+  line-height: 1.2em;
+  word-spacing: 0;
+  letter-spacing: 0;
+  text-decoration: none;
+  vertical-align: baseline;
+  text-transform: none;
+  text-align: left;
+  text-indent: 0;
+
+  list-style: none;
+
+  outline: invert none medium;
+}
+
+/*** body ***/
+
+body {
+  font-size: 11pt;
+  padding: 0.5em;
+}
+
+
+/*** inline text ***/
+
+a {text-decoration: underline;}
+a:link {color: #00A}     /* unvisited link */
+a:visited {color: #A0A}  /* visited link */
+a:hover {color: #A00}   /* mouse over link */
+a:active {color: #A00}   /* mouse-down on link */
+
+acronym {
+  border-bottom: 1px dotted;
+}
+
+cite, dfn, em {
+  font-style: italic;
+}
+
+code {
+  font-family: monospace;
+}
+
+del {
+  text-decoration: line-through;
+}
+
+ins {
+  text-decoration: underline;
+}
+
+q:before {content: open-quote;}
+q:after {content: close-quote;}
+
+strong {
+  font-weight: bold;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+
+
+/*** block text ***/
+
+p {
+  margin-bottom: 1em;
+}
+
+pre {
+  font-family: monospace;
+  background: #EEE;
+  overflow: auto;
+  padding: 0.1em 0.3em;
+  margin: 1em 0em;
+}
+
+blockquote {
+  margin: 1em 3em;
+  border-left: 1px solid black;
+  padding-left: 0.3em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, Times, serif;
+  font-weight: bold;
+  margin: 1em 0 0.1em 0;
+}
+
+h1 {font-size: 2.5em;}
+h2 {font-size: 2em;}
+h3 {font-size: 1.6em;}
+h4 {font-size: 1.3em;}
+h5 {font-size: 1.1em;}
+h6 {font-size: 1em;}
+
+div + h1, div + h2, div + h3, div + h4, div + h5, div + h6, div > h1:first-child, div > h2:first-child, div > h3:first-child, div + h4:first-child, div + h5:first-child, div + h6:first-child, h1 + h2, h1 + h3, h2 + h3, h2 + h4, h3 + h4, h3 + h5, h4 + h5, h4 + h6, h5 + h6 {
+  margin-top: 0.2em;
+}
+
+
+/*** lists ***/
+
+ul, ol {
+  margin: 1em 2em;
+}
+
+ul ul, ol ol {
+  margin: 0 1.5em;
+}
+
+li {
+  margin-top: 0.4em;
+}
+
+li li {
+  margin-top: 0.2em;
+}
+
+ul > li {
+  list-style: disc outside;
+}
+
+ol > li {
+  list-style: decimal;
+}
+
+dl {
+  margin: 1em;
+}
+
+dl br {
+  display: none;
+}
+
+dt {
+  font-weight: bold;
+/*  float: left;  /* this breaks in IE */
+  padding-right: 0.5em;
+  clear: both;
+}
+
+dt:after {
+  content: ":";
+}
+
+dd {
+  clear: right;
+  padding-left: 1em;
+  font-style: italic;
+  margin-bottom: 0.8em;
+}
+
+
+/*** structural things ***/
+
+hr {
+  border: 1px dotted gray;
+  width: 70%;
+  margin: 2em auto;  /* doesn't center in IE */
+}
+
+img {
+  padding: 2px;
+  margin: 0.5em;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid black;
+  margin: 1em 0.5em; 
+}
+
+th, td {
+  padding: 0.1em 0.2em; 
+}
+
+td {
+  border-left: 1px solid gray;
+  border-top: 1px solid gray;
+}
+
+tr:first-child td {
+  border-top: 0;
+}
+
+th {
+  text-align: center;
+  font-weight: bold;
+  border-left: 1px solid gray;
+  border-bottom: 2px solid gray;
+}
+
+td:first-child, th:first-child {
+  border-left: 0;
+}
+
+
+/*** forms ***/
+
+form br {
+  display: none;
+}
+
+input, textarea {
+  border: 2px inset rgb(212, 216, 224);
+  padding: 1px;
+}
+
+textarea {
+  font-size: 10pt;
+  font-family: monospace; 
+  width: 25em;
+  margin: 0.5em 0;
+}
+
+button, input[type="submit"] {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 0 0.3em;
+  border: 2px outset rgb(212, 216, 224);
+  background-color: rgb(212, 216, 224);
+}
+
+select {
+  border: 2px inset rgb(212, 216, 224);
+}
+
+option {
+  padding: 0 4px;
+}
+
+optgroup {
+  font-weight: bold;
+  padding: 0 1px;
+}
+
+fieldset {
+  border: 2px groove black;
+  margin: 1em 0.5em;
+  padding: 0.5em;
+}
+

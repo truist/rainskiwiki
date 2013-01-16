@@ -1,0 +1,126 @@
+.article {
+  margin-bottom: 1.5em;
+}
+
+.article_padding {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+/* to make sure images don't float over the bottom edge */
+.article_padding:after {
+  content: "."; 
+  display: block; 
+  height: 0; 
+  clear: both; 
+  visibility: hidden;
+}
+
+h2.article_title {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0 0.2em 2pt 0.2em;
+}
+
+h2.article_title a {
+  text-decoration: none;
+  font-family: Georgia, Times, serif;
+}
+
+h4.article_atts {
+  font-size: 0.8em;
+  padding-top: 0.2em;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+}
+
+h4.article_atts, h4.article_atts a {
+  text-transform: uppercase;
+  font-family: Georgia, Times, serif;
+}
+
+h4.article_atts a {
+  font-size: 0.95em;
+}
+
+h4.tags {
+  float: left;
+  width: 70%;
+}
+
+h4.posted_date {
+  text-align: right;
+}
+
+h4.posted_date + * {
+  clear: both;
+}
+
+.article p, .article h1, .article h2, .article h3 {
+  clear: left;
+}
+
+.article h4 code {
+  font-weight: bold;
+}
+
+.article pre {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+img.diagram {
+  padding: 1px;
+  margin-left: 3em;
+}
+
+img.diagram a {
+  border: none;
+}
+
+.article-image-outer {
+  float: right;
+  clear: right;
+  padding-left: 0.5em;
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+}
+
+.article-image-inner {
+  padding: 1px;
+}
+
+.article-image-inner img {
+  margin: 0;
+}
+
+blockquote .kurzweil {
+  font-variant: small-caps;
+}
+
+blockquote .kurzweil em {
+  font-variant: normal;
+}
+
+.footnote {
+  font-size: smaller;
+}
+
+p.quote {
+  padding-right: 220px;
+}
+
+.attribution {
+  font-style: italic;
+}
+
+#newer {
+  float: left
+}
+
+#older {
+  float: right;
+}
+
+
