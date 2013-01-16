@@ -1,0 +1,4 @@
+[[!meta title="pages tagged economics"]]
+
+[[!inline pages="tagged(economics)" actions="no" archive="yes"
+feedshow=10]]
