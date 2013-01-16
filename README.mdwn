@@ -6,8 +6,8 @@ rainskit.com ikiwiki conversion
 todo:
 
 * overall site template
-    * sidebar
-    * search
+    * <strike>sidebar</strike>
+    * <strike>search</strike>
     * tag cloud
     * archive page link
     * gallery link
@@ -18,7 +18,7 @@ todo:
     * (paypal)
     * randomized quote
         * new solution outside ikiwiki
-    * favicon
+    * <strike>favicon</strike>
     * CSS for screen and print
     * Google Analytics
 * article excerpts on front page
