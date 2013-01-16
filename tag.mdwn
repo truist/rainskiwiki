@@ -1,3 +1,3 @@
-[[!pagestats pages="./tag/*" among="./posts/*"]]
+[[!pagestats pages="./tag/*" among="./blog/*"]]
 
 On the right you can see the tag cloud for this blog.
