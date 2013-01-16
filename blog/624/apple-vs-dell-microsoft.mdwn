@@ -1,0 +1,149 @@
+[[!tag apple reviews usability]]
+
+[ ][1]
+
+## [Apple vs. Dell/Microsoft][2]
+
+#### 27 July 2012
+
+I have a MacBook Air that I used as my work (consulting) computer for 18
+months or so. Then my new job gave me a Dell laptop that [feels seriously
+inferior][6], but as with all things Windows/Dell, it is sufficient.
+
+So yesterday I did something I've done hundreds of times before with my Air,
+but never before with my Dell: I closed the lid at the end of the day without
+shutting things down first, stuffed it in my bag, and went home. (I was in a
+hurry.)
+
+On the Air, that reliably sleeps the laptop, and I can always trust that
+everything will be exactly as I left it when I reopen the lid, and the battery
+won't have drained at all.
+
+I knew not to trust the same thing on Windows, but I was in a hurry so I
+decided to risk it, and maybe if it turned out well I'd adjust my opinion
+about Windows.
+
+So what did I see when I opened it this morning? A boot-time message telling
+me that the laptop had shut itself down because it was overheating, which
+usually happens because it is in a tightly enclosed space with the fan vents
+blocked. Like, say, a laptop bag. And by "shut itself down" they mean "hard
+power off, no saving your work". And they mean that they waited until the
+battery was half drained to do that.
+
+Now, I checked and I do have the laptop set to sleep when I close the lid. So
+it should have just slept, and it shouldn't have been generating heat
+(although I'm not certain if the Windows sleep really does go that far), so it
+shouldn't have had this problem. But it did. I'm guessing the culprit is
+Outlook, which often prevents rebooting because of third-party integrations
+that aren't very well-done, so maybe it also prevented sleeping.
+
+But then of course, the culprit is Windows for actually listening to Outlook
+and not putting the laptop to sleep.
+
+And then Dell is really the savior here; faced with Windows not sleeping when
+it was supposed to, Dell's choice was either to let the laptop overheat (and
+break permanently), or build a feature to shut it off when it begins to. So,
+thanks, Dell!
+
+But more than that, thanks to Apple for making devices where I just don't have
+to worry about crap like this!
+
+##### Comments
+
+  1. [172 days ago][8]
+
+[mattmc3][9] says:
+
+I know, right? The thought of ever going back just doesn't cross my mind. But,
+as a counter-point, I did have the exact opposite problem today in fact. I
+wanted my laptop to stay on while I updated the maps on my Garmin and the Mac
+insisted it follow the energy settings which meant that the Garmin was 1/2
+updated when the laptop force ejected it as part of its sleep routine. The
+default behavior is certainly what you want 99% of the time, but for that 1% I
+wish there was an easy way to say "delay sleep" for x minutes because I know
+what I'm doing and after that return to my prior settings automatically.
+
+  2. [172 days ago][10]
+
+[Nathan Arthur][11] says:
+
+[InsomniaX][12]
+
+[NoSleep][13]
+
+(And [Caffeine][14] for non-lid-closed cases)
+
+:)
+
+   [1]: http://www.rainskit.com/
+   [2]: http://www.rainskit.com/blog/624/apple-vs-dell-microsoft
+   [3]: http://www.rainskit.com/tag/apple/
+   [4]: http://www.rainskit.com/tag/reviews/
+   [5]: http://www.rainskit.com/tag/usability/
+   [6]: https://plus.google.com/115702184162942442429/posts/HrRj16gEYJa
+   [7]: http://twitter.com/share
+   [8]: http://www.rainskit.com/blog/624/apple-vs-dell-microsoft#c000947
+   [9]: http://mattmc3.blogspot.com
+   [10]: http://www.rainskit.com/blog/624/apple-vs-dell-microsoft#c000948
+   [11]: http://www.rainskit.com
+   [12]: http://semaja2.net/insomniaxinfo
+   [13]: http://code.google.com/p/macosx-nosleep-extension/
+   [14]: http://lightheadsw.com/caffeine/
+   [15]: http://rpc.textpattern.com/help/?item=textile_comments&language=en-us
+   [16]: http://www.rainskit.com/archive/
+   [17]: http://www.rainskit.com/tag/abortion/
+   [18]: http://www.rainskit.com/tag/agile/
+   [19]: http://www.rainskit.com/tag/benjamin/
+   [20]: http://www.rainskit.com/tag/books/
+   [21]: http://www.rainskit.com/tag/bridgid/
+   [22]: http://www.rainskit.com/tag/buddhism/
+   [23]: http://www.rainskit.com/tag/business/
+   [24]: http://www.rainskit.com/tag/christmas/
+   [25]: http://www.rainskit.com/tag/dogs/
+   [26]: http://www.rainskit.com/tag/driving/
+   [27]: http://www.rainskit.com/tag/economics/
+   [28]: http://www.rainskit.com/tag/effectiveness/
+   [29]: http://www.rainskit.com/tag/family/
+   [30]: http://www.rainskit.com/tag/flying/
+   [31]: http://www.rainskit.com/tag/food/
+   [32]: http://www.rainskit.com/tag/geek/
+   [33]: http://www.rainskit.com/tag/government/
+   [34]: http://www.rainskit.com/tag/guns/
+   [35]: http://www.rainskit.com/tag/gwen/
+   [36]: http://www.rainskit.com/tag/intelligence/
+   [37]: http://www.rainskit.com/tag/kristina/
+   [38]: http://www.rainskit.com/tag/lent/
+   [39]: http://www.rainskit.com/tag/liam/
+   [40]: http://www.rainskit.com/tag/life/
+   [41]: http://www.rainskit.com/tag/links/
+   [42]: http://www.rainskit.com/tag/motorcycle/
+   [43]: http://www.rainskit.com/tag/netbsd/
+   [44]: http://www.rainskit.com/tag/photography/
+   [45]: http://www.rainskit.com/tag/pictures/
+   [46]: http://www.rainskit.com/tag/podcasting/
+   [47]: http://www.rainskit.com/tag/politics/
+   [48]: http://www.rainskit.com/tag/product+management/
+   [49]: http://www.rainskit.com/tag/programming/
+   [50]: http://www.rainskit.com/tag/rainskit.com/
+   [51]: http://www.rainskit.com/tag/religion/
+   [52]: http://www.rainskit.com/tag/school/
+   [53]: http://www.rainskit.com/tag/smuganizer/
+   [54]: http://www.rainskit.com/tag/tagging/
+   [55]: http://www.rainskit.com/tag/terrorism/
+   [56]: http://www.rainskit.com/tag/textpattern/
+   [57]: http://www.rainskit.com/tag/travel/
+   [58]: http://www.rainskit.com/tag/truist.com/
+   [59]: http://www.rainskit.com/tag/tru_podcast/
+   [60]: http://www.rainskit.com/tag/tru_tags/
+   [61]: http://www.rainskit.com/tag/vegetarian/
+   [62]: http://www.rainskit.com/tag/weaknesses/
+   [63]: http://www.rainskit.com/blog/493/trutags-a-tagging-plugin-for-textpattern
+   [64]: http://media.rainskit.com/
+   [65]: http://media.rainskit.com/Albums/2010/Benjamins-first-apple-picking/DSC6398/1060430598_Rghrb-Th.jpg
+   [66]: http://gallery.rainskit.com/
+   [67]: mailto:narthur-website@rainskit.com
+   [68]: http://rainskit.com/+
+   [69]: https://www.paypal.com/en_US/i/scr/pixel.gif
+   [70]: http://www.mozilla.com/firefox/
+   [71]: http://www.rainskit.com/quotes/
+
