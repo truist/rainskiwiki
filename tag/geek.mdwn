@@ -1,0 +1,4 @@
+[[!meta title="pages tagged geek"]]
+
+[[!inline pages="tagged(geek)" actions="no" archive="yes"
+feedshow=10]]
