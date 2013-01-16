@@ -6,6 +6,3 @@
 
 [[!inline pages="page(./blog/*) and !*/Discussion" show="10"
 actions=yes rootpage="blog"]]
-
-
-This blog is powered by [ikiwiki](http://ikiwiki.info).
