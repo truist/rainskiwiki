@@ -23,9 +23,9 @@ destdir: /Users/schmonz/Documents/trees/rainskiwiki/html
 # base url to the wiki
 url: http://magnetic-babysitter.local
 # url to the ikiwiki.cgi
-cgiurl: http://magnetic-babysitter.local/cgi/ikiwiki
+# cgiurl: http://magnetic-babysitter.local/cgi/ikiwiki
 # filename of cgi wrapper to generate
-cgi_wrapper: /Users/schmonz/Documents/trees/rainskiwiki/cgi/ikiwiki
+# cgi_wrapper: /Users/schmonz/Documents/trees/rainskiwiki/cgi/ikiwiki
 # mode for cgi_wrapper (can safely be made suid)
 # cgi_wrappermode: 06755
 cgi_wrappermode: 00755
@@ -44,7 +44,6 @@ add_plugins:
 - calendar
 - sidebar
 - trail
-- search
 - prettydate
 - relativedate
 - tag
