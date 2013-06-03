@@ -1,0 +1,4 @@
+[[!meta title="pages tagged lent"]]
+
+[[!inline pages="tagged(lent)" actions="no" archive="yes"
+feedshow=10]]
