@@ -1,0 +1,26 @@
+#page_layout {
+  width: 65em;
+}
+
+#head {
+  height: 220px;
+}
+
+.gallery #head {
+  height: 145px;
+}
+
+#head ul li {
+  width: 49%;
+  min-width: 49%;
+}
+
+#page_layout * {
+  background-image: none;
+}
+
+#head a {
+  background-image: none;
+  background-color: #572816;
+}
+

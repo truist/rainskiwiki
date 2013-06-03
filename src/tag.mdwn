@@ -1,0 +1,5 @@
+[[!pagestats style="list" pages="./tag/*" among="./blog/*"]]
+
+[[!pagestats style="table" pages="./tag/*" among="./blog/*"]]
+
+On the right you can see the tag cloud for this blog.

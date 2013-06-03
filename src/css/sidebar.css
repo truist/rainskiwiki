@@ -1,0 +1,99 @@
+.sidebar_section {
+  margin-bottom: 1em;
+}
+
+.sidebar_section > * {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.sidebar_section h5 {
+  text-align: center;
+  padding: 0.2em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.sidebar_section h5 a {
+  text-decoration: none;
+}
+
+#search input {
+  width: 97%
+}
+
+#search_submit {
+  display: none;
+}
+
+#sidebar p.tag_cloud {
+  line-height: 2em;
+  word-spacing: 0.2em;
+  text-align: center;
+  font-size: smaller;
+}
+
+#sidebar .tag_cloud a {
+  text-decoration: none;
+  padding: 0.1em;
+}
+
+.cloud_footer_left, .cloud_footer_right, #gallery p {
+  font-size: 0.6em;
+}
+
+.cloud_footer_left, .cloud_footer_right, .cloud_footer_left a, .cloud_footer_right a, #gallery p, #gallery p a {
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+
+.cloud_footer_left {
+  text-align: left;
+  float: left;
+}
+
+.cloud_footer_right {
+  text-align: right;
+  float:right;
+}
+
+.cloud_footer_clear {
+  clear: both;
+}
+
+#gallery, #gallery p {
+  text-align: center;
+}
+
+#subscribe p, #contact p {
+  text-align: center;
+}
+
+#subscribe input {
+  width: 10em;
+  color: gray;
+}
+
+#subscribe input#submit, .zemSubmit, .zemContactForm label {
+  width: 6em;
+  display: none;
+}
+
+#paypal form {
+  text-align: center;
+}
+
+#paypal input {
+  border: 0;
+}
+
+#use_firefox p {
+  margin-top: 1em;
+}
+
+/* most non-firefox browsers will ignore this */
+html:not([lang*=""]) #use_firefox {
+  display: none;
+}
+

@@ -1,0 +1,16 @@
+#foot {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  padding: 1% 1%;
+}
+
+#foot * {
+  font-style: inherit;
+  font-size: inherit;
+}
+
+#foot a {
+  text-decoration: none;
+}
+

@@ -1,0 +1,4 @@
+[[!meta title="pages tagged effectiveness"]]
+
+[[!inline pages="tagged(effectiveness)" actions="no" archive="yes"
+feedshow=10]]

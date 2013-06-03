@@ -1,0 +1,23 @@
+.noprint {
+  display: none;
+}
+
+#page_layout {
+  min-width: 0;
+  width: 100%;
+  max-width: none;
+  margin: auto;
+}
+
+#content {
+  float: none;
+  width: 100%;
+  min-height: 0;
+}
+
+a:link, a:visited, a:hover {
+  color: #000 !important;
+  text-decoration: none;
+  background: transparent;
+}
+

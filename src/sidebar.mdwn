@@ -1,0 +1,10 @@
+[[!if test="enabled(calendar)" then="""
+[[!calendar pages="page(./blog/*) and !*/Discussion"]]
+"""]]
+
+[[Recent Comments|comments]]
+
+[[Archives]]
+
+[[Tags|tag]]:
+[[!pagestats pages="./tag/*" among="./blog/*"]]
