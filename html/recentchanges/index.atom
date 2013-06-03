@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>RecentChanges</title>
+<link href="http://magnetic-babysitter.local/recentchanges/"/>
+<link href="http://magnetic-babysitter.local/recentchanges/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>rainskiwikit.com</name>
+
+</author>
+
+
+
+
+<id>http://magnetic-babysitter.local/recentchanges/</id>
+
+<subtitle type="html">rainskiwikit.com</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2013-06-03T00:02:03Z</updated>
+<entry>
+	<title>change to archives blog blog/624/apple-vs-dell-microsoft blog/628/how-i-manage-my-inbox blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media comments css/articles.css css/base_typography.css css/colors_textures.css css/comments.css  on rainskiwikit.com</title>
+
+	<id>http://magnetic-babysitter.local/recentchanges/change_7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9/</id>
+
+	<link href="http://magnetic-babysitter.local/recentchanges/#change-7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9"/>
+
+	<author><name>schmonz-web-git</name></author>
+
+
+
+
+
+	<updated>2013-06-03T00:02:03Z</updated>
+	<published>2013-06-03T00:02:03Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=archives&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;archives&lt;/a&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=blog&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;blog&lt;/a&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=blog%2F624%2Fapple-vs-dell-microsoft&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;blog/624/apple-vs-dell-microsoft&lt;/a&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=blog%2F628%2Fhow-i-manage-my-inbox&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;blog/628/how-i-manage-my-inbox&lt;/a&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=blog%2F629%2F10-questions-a-pro-choice-candidate-is-never-asked-by-the-media&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media&lt;/a&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=comments&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;comments&lt;/a&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=css%2Farticles.css&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;css/articles.css&lt;/a&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=css%2Fbase_typography.css&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;css/base typography.css&lt;/a&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=css%2Fcolors_textures.css&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;css/colors textures.css&lt;/a&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=css%2Fcomments.css&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;css/comments.css&lt;/a&gt;
+
+...
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=schmonz-web-git&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;schmonz-web-git&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 02 Jun 2013 20:02:03 -0400&quot;&gt;late Sunday evening 06/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?rev=7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://magnetic-babysitter.local/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+move under src/&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+
+</feed>
