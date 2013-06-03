@@ -17,7 +17,193 @@
 
 <subtitle type="html">rainskiwikit.com</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-06-03T00:02:03Z</updated>
+<updated>2013-06-03T02:33:26Z</updated>
+<entry>
+	<title>change to blog/630/this-year-for-lent on rainskiwikit.com</title>
+
+	<id>http://magnetic-babysitter.local/recentchanges/change_2c096c411a95f39b5355bffe19efa4ca36126f07/</id>
+
+	<link href="http://magnetic-babysitter.local/recentchanges/#change-2c096c411a95f39b5355bffe19efa4ca36126f07"/>
+
+	<author><name>schmonz-web-git</name></author>
+
+
+
+
+
+	<updated>2013-06-03T02:33:26Z</updated>
+	<published>2013-06-03T02:33:26Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-2c096c411a95f39b5355bffe19efa4ca36126f07&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+blog/630/this-year-for-lent
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 02 Jun 2013 22:33:26 -0400&quot;&gt;Sunday night 06/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add a recent (and conveniently short) post&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to tag/lent on rainskiwikit.com</title>
+
+	<id>http://magnetic-babysitter.local/recentchanges/change_982c619e467deda90318768d18eab1376a4fa3af/</id>
+
+	<link href="http://magnetic-babysitter.local/recentchanges/#change-982c619e467deda90318768d18eab1376a4fa3af"/>
+
+	<author><name>schmonz-web-git</name></author>
+
+
+
+
+
+	<updated>2013-06-03T02:30:31Z</updated>
+	<published>2013-06-03T02:30:31Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-982c619e467deda90318768d18eab1376a4fa3af&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+tag/lent
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 02 Jun 2013 22:30:31 -0400&quot;&gt;Sunday night 06/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating tag page tag/lent&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to .gitignore on rainskiwikit.com</title>
+
+	<id>http://magnetic-babysitter.local/recentchanges/change_096cb8fa09041a40e1e156b09df909e6204f2f25/</id>
+
+	<link href="http://magnetic-babysitter.local/recentchanges/#change-096cb8fa09041a40e1e156b09df909e6204f2f25"/>
+
+	<author><name>schmonz-web-git</name></author>
+
+
+
+
+
+	<updated>2013-06-03T00:11:41Z</updated>
+	<published>2013-06-03T00:11:41Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-096cb8fa09041a40e1e156b09df909e6204f2f25&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+.gitignore
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 02 Jun 2013 20:11:41 -0400&quot;&gt;late Sunday evening 06/02/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add configuration and generated HTML so far&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to archives blog blog/624/apple-vs-dell-microsoft blog/628/how-i-manage-my-inbox blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media comments css/articles.css css/base_typography.css css/colors_textures.css css/comments.css  on rainskiwikit.com</title>
 
@@ -42,8 +228,6 @@
 
 
 
-
-
 &lt;div id=&quot;change-7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
@@ -51,25 +235,25 @@
 
 
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=archives&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;archives&lt;/a&gt;
+archives
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=blog&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;blog&lt;/a&gt;
+blog
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=blog%2F624%2Fapple-vs-dell-microsoft&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;blog/624/apple-vs-dell-microsoft&lt;/a&gt;
+blog/624/apple-vs-dell-microsoft
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=blog%2F628%2Fhow-i-manage-my-inbox&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;blog/628/how-i-manage-my-inbox&lt;/a&gt;
+blog/628/how-i-manage-my-inbox
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=blog%2F629%2F10-questions-a-pro-choice-candidate-is-never-asked-by-the-media&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media&lt;/a&gt;
+blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=comments&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;comments&lt;/a&gt;
+comments
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=css%2Farticles.css&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;css/articles.css&lt;/a&gt;
+css/articles.css
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=css%2Fbase_typography.css&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;css/base typography.css&lt;/a&gt;
+css/base typography.css
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=css%2Fcolors_textures.css&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;css/colors textures.css&lt;/a&gt;
+css/colors textures.css
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=css%2Fcomments.css&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;css/comments.css&lt;/a&gt;
+css/comments.css
 
 ...
 
@@ -77,7 +261,7 @@
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
 &lt;span class=&quot;committer&quot;&gt;
 
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?page=schmonz-web-git&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;schmonz-web-git&lt;/a&gt;
+schmonz-web-git
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
@@ -85,9 +269,7 @@
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
 &lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 02 Jun 2013 20:02:03 -0400&quot;&gt;late Sunday evening 06/02/13&lt;/span&gt;&lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-&lt;span class=&quot;revert&quot;&gt;
-&lt;a href=&quot;http://magnetic-babysitter.local/cgi/ikiwiki?rev=7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9&amp;amp;do=revert&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://magnetic-babysitter.local/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
-&lt;/span&gt;
+
 &lt;/div&gt;
 &lt;div class=&quot;changelog&quot;&gt;
 
