@@ -1,89 +1,113 @@
 rainskiwiki
 ===========
 
-rainskit.com ikiwiki conversion
+`rainskit.com` ikiwiki conversion
 
-todo:
+## TODO
 
-* overall site template
-    * <strike>sidebar</strike>
-    * <strike>search</strike>
-    * tag cloud
-        * disappearing intermittently, weird
-    * archive page link
-    * gallery link
-    * rss / atom
-        * [don't flood aggregators](http://ikiwiki.info/tips/howto_avoid_flooding_aggregators/)
-    * email subscribe
-    * contact
-    * (paypal)
-    * randomized quote
-        * new solution outside ikiwiki
-    * <strike>favicon</strike>
-    * CSS for screen and print
-    * Google Analytics
-* article excerpts on front page
-    * tags
-    * post date (N days ago)
-    * tweet / G+ links
-    * content
-    * image
-* full articles
-    * same stuff as excerpt
-    * title + "| rainskit.com"
-    * full body
-    * comment form
-    * name
-    * email
-    * follow-up comment feature
-    * webpage
-    * I am not a spammer
-    * comment (with syntax)
-    * "remember" checkbox
-    * preview feature
-    * formatting help
-* comment spam handling
-    * I am not a spammer
-    * auto-select for moderate
-    * auto-spam
-    * moderated handling
-* rss / atom feeds for articles
-    * including tags
-    * just excerpts
-    * link to main article
-    * images
-* email subscriptions
-    * registration
-    * unregistration
-    * delivery
-    * list management
-    * (moderation)
-    * (`ezmlm` moderated list, `rss2email`)
-* archive page
-    * list of all tags in alpha order
-    * list of all articles per tag, newest first
-* tag page features
-    * (related tags)
-    * (all posts tagged with "A" and "B")
-* quote section
-    * title, body, attribution
-* reference section
-    * `tru_tags`, `tru_podcast`
-* writing a post features
-    * article image field
-    * tag field
-    * quote attribution
-* content conversion
-    * preserve permalinks to existing content
-    * what URL style is desired for new content?
-    * article bodies
-    * excerpts
-    * images
-    * image links
-    * tags
-    * quote attributions
-    * date stamps
-    * comments
-    * (convert textile to markdown?)
-    * (new articles in markdown?)
-* (aggregate twitter into blog)
+### Overall site template
+
+* <strike>sidebar</strike>
+* <strike>search</strike>
+* tag cloud
+    * disappearing intermittently, weird
+* archive page link
+* gallery link
+* rss / atom
+    * [don't flood aggregators](http://ikiwiki.info/tips/howto_avoid_flooding_aggregators/)
+* email subscribe
+* contact
+* (paypal)
+* randomized quote
+    * new solution outside ikiwiki
+* <strike>favicon</strike>
+* CSS for screen and print
+* Google Analytics
+
+### Article excerpts on front page
+
+* tags
+* post date (N days ago)
+* tweet / G+ links
+* content
+* image
+
+### Full articles
+
+* same stuff as excerpt
+* title + "| rainskit.com"
+* full body
+* comment form
+* name
+* email
+* follow-up comment feature
+* webpage
+* I am not a spammer
+* comment (with syntax)
+* "remember" checkbox
+* preview feature
+* formatting help
+
+### Comment spam handling
+
+* I am not a spammer
+* auto-select for moderate
+* auto-spam
+* moderated handling
+
+### RSS/Atom feeds for articles
+
+* including tags
+* just excerpts
+* link to main article
+* images
+
+### Email subscriptions
+
+* registration
+* unregistration
+* delivery
+* list management
+* (moderation)
+* (`ezmlm` moderated list, `rss2email`)
+
+### Archive page
+
+* list of all tags in alpha order
+* list of all articles per tag, newest first
+
+### Tag page features
+
+* (related tags)
+* (all posts tagged with "A" and "B")
+
+### Quote section
+
+* title, body, attribution
+
+### Reference section
+
+* `tru_tags`, `tru_podcast`
+
+### Writing a post features
+
+* article image field
+* tag field
+* quote attribution
+
+### Content conversion
+
+* preserve permalinks to existing content
+* what URL style is desired for new content?
+* article bodies
+* excerpts
+* images
+* image links
+* tags
+* quote attributions
+* date stamps
+* comments
+* (convert textile to markdown?)
+* (new articles in markdown?)
+
+### (aggregate twitter into blog)
