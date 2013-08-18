@@ -47,6 +47,7 @@ add_plugins:
 - prettydate
 - relativedate
 - tag
+- textile
 - pagestats
 - theme
 # - typography
