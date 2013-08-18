@@ -1,16 +1,11 @@
 <?xml version="1.0"?>
 <rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
 <title>pages tagged sometag</title>
 <link>http://magnetic-babysitter.local/tag/sometag/</link>
-<atom:link href="http://magnetic-babysitter.local/tag/sometag/index.rss" rel="self" type="application/rss+xml" />
-
 <description>rainskiwikit.com</description>
-<generator>ikiwiki</generator>
-<pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
 
 </channel>
 </rss>

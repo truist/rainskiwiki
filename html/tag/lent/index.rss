@@ -1,23 +1,19 @@
 <?xml version="1.0"?>
 <rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
 <title>pages tagged lent</title>
 <link>http://magnetic-babysitter.local/tag/lent/</link>
-<atom:link href="http://magnetic-babysitter.local/tag/lent/index.rss" rel="self" type="application/rss+xml" />
-
 <description>rainskiwikit.com</description>
-<generator>ikiwiki</generator>
-<pubDate>Sun, 02 Jun 2013 22:30:08 -0400</pubDate>
 <item>
+
 	<title>This year for Lent...</title>
+
 
 	<guid isPermaLink="false">http://magnetic-babysitter.local/blog/630/this-year-for-lent/</guid>
 
 	<link>http://magnetic-babysitter.local/blog/630/this-year-for-lent/</link>
-
 
 
 	<category>lent</category>
@@ -25,7 +21,6 @@
 
 	<pubDate>Sun, 02 Jun 2013 22:30:08 -0400</pubDate>
 	<dcterms:modified>2013-06-03T02:30:08Z</dcterms:modified>
-
 
 	<description>&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 

@@ -1,23 +1,19 @@
 <?xml version="1.0"?>
 <rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
 <title>pages tagged abortion</title>
 <link>http://magnetic-babysitter.local/tag/abortion/</link>
-<atom:link href="http://magnetic-babysitter.local/tag/abortion/index.rss" rel="self" type="application/rss+xml" />
-
 <description>rainskiwikit.com</description>
-<generator>ikiwiki</generator>
-<pubDate>Sun, 02 Jun 2013 20:02:15 -0400</pubDate>
 <item>
+
 	<title>10 Questions a Pro-Choice Candidate Is Never Asked by the Media</title>
+
 
 	<guid isPermaLink="false">http://magnetic-babysitter.local/blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media/</guid>
 
 	<link>http://magnetic-babysitter.local/blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media/</link>
-
 
 
 	<category>abortion</category>
@@ -31,7 +27,6 @@
 
 	<pubDate>Sun, 02 Jun 2013 20:02:15 -0400</pubDate>
 	<dcterms:modified>2013-06-03T00:02:15Z</dcterms:modified>
-
 
 	<description>&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
