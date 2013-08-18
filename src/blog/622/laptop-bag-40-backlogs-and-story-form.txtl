@@ -1,3 +1,6 @@
+[[!tag agile business effectiveness flying geek "product management" reviews travel usability]]
+[[!meta title="Laptop bag 4.0, backlogs, and story form"]]
+
 Somewhere out there is a laptop bag just waiting for me to find it.  But first, I have to spec it out.
 
 Like "Rands":http://www.randsinrepose.com/, I recently got "laptop bag religion":http://www.randsinrepose.com/archives/2011/12/04/a_bag_of_holding.html and I spent an excessive amount of time cogitating about features, price, tradeoffs, where to buy, and features again.
@@ -6,7 +9,7 @@ Then I got serious about it.
 
 I haven't yet found the bag, but in the meantime, I've written this blog post, because it provided the excuse I needed to really -go batshit insane- do a thorough job of my analysis.  Not only does this post include a detailed list of requirements for my perfect laptop bag, but it also includes a glance into what I do in my life as a "Product Manager":http://www.rainskit.com/blog/586/what-i-do.  Hopefully one or the other of those is interesting enough to keep your attention :)
 
-----
+[[!more linktext="Read more..." text="""
 
 First, some background.  I've owned three different types of laptop bag.  Two were failures, one was a success.  (Interestingly, that's about what I think it takes to really be expert at something: at least two failures, and at least one success.)
 
@@ -196,3 +199,5 @@ Defense in depth!
 _As someone who might end up walking to work frequently, I want the bag to be convertible to a backpack, so that I can carry it easily for long distances over any terrain._
 
 Wheels won't cut it here (I'm too tall, they don't work on all terrains), nor will a single strap.  It has to be convertible to a backpack.
+
+"""]]

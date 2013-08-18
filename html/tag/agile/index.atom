@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>pages tagged agile</title>
+<link href="http://magnetic-babysitter.local/tag/agile/"/>
+<link href="http://magnetic-babysitter.local/tag/agile/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>rainskiwikit.com</name>
+
+</author>
+
+
+
+
+<id>http://magnetic-babysitter.local/tag/agile/</id>
+
+<subtitle type="html">rainskiwikit.com</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2013-08-18T04:39:11Z</updated>
+<entry>
+	<title>Laptop bag 4.0, backlogs, and story form</title>
+
+	<id>http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form/</id>
+
+	<link href="http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form/"/>
+
+
+
+
+
+
+	<category term="agile" />
+
+	<category term="business" />
+
+	<category term="effectiveness" />
+
+	<category term="flying" />
+
+	<category term="geek" />
+
+	<category term="product management" />
+
+	<category term="reviews" />
+
+	<category term="travel" />
+
+	<category term="usability" />
+
+
+	<updated>2013-08-18T04:39:11Z</updated>
+	<published>2013-08-18T04:34:14Z</published>
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;Somewhere out there is a laptop bag just waiting for me to find it.  But first, I have to spec it out.&lt;/p&gt;
+
+&lt;p&gt;Like &lt;a href=&quot;http://www.randsinrepose.com/&quot;&gt;Rands&lt;/a&gt;, I recently got &lt;a href=&quot;http://www.randsinrepose.com/archives/2011/12/04/a_bag_of_holding.html&quot;&gt;laptop bag religion&lt;/a&gt; and I spent an excessive amount of time cogitating about features, price, tradeoffs, where to buy, and features again.&lt;/p&gt;
+
+&lt;p&gt;Then I got serious about it.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;#39;t yet found the bag, but in the meantime, I&amp;#39;ve written this blog post, because it provided the excuse I needed to really &lt;del&gt;go batshit insane&lt;/del&gt; do a thorough job of my analysis.  Not only does this post include a detailed list of requirements for my perfect laptop bag, but it also includes a glance into what I do in my life as a &lt;a href=&quot;http://www.rainskit.com/blog/586/what-i-do&quot;&gt;Product Manager&lt;/a&gt;.  Hopefully one or the other of those is interesting enough to keep your attention &lt;img src=&quot;http://magnetic-babysitter.local/tag/agile/../../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://magnetic-babysitter.local/tag/agile/../../blog/622/laptop-bag-40-backlogs-and-story-form/#more&quot;&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+	</content>
+
+
+
+</entry>
+
+</feed>
