@@ -50,7 +50,7 @@ add_plugins:
 - textile
 - pagestats
 - theme
-# - typography
+- typography
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files
