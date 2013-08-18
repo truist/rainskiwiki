@@ -34,42 +34,42 @@
 months or so. Then my new job gave me a Dell laptop that &lt;a href=&quot;https://plus.google.com/115702184162942442429/posts/HrRj16gEYJa&quot;&gt;feels seriously
 inferior&lt;/a&gt;, but as with all things Windows/Dell, it is sufficient.&lt;/p&gt;
 
-&lt;p&gt;So yesterday I did something I&#39;ve done hundreds of times before with my Air,
+&lt;p&gt;So yesterday I did something I&amp;#8217;ve done hundreds of times before with my Air,
 but never before with my Dell: I closed the lid at the end of the day without
 shutting things down first, stuffed it in my bag, and went home. (I was in a
 hurry.)&lt;/p&gt;
 
 &lt;p&gt;On the Air, that reliably sleeps the laptop, and I can always trust that
 everything will be exactly as I left it when I reopen the lid, and the battery
-won&#39;t have drained at all.&lt;/p&gt;
+won&amp;#8217;t have drained at all.&lt;/p&gt;
 
 &lt;p&gt;I knew not to trust the same thing on Windows, but I was in a hurry so I
-decided to risk it, and maybe if it turned out well I&#39;d adjust my opinion
+decided to risk it, and maybe if it turned out well I&amp;#8217;d adjust my opinion
 about Windows.&lt;/p&gt;
 
 &lt;p&gt;So what did I see when I opened it this morning? A boot-time message telling
 me that the laptop had shut itself down because it was overheating, which
 usually happens because it is in a tightly enclosed space with the fan vents
-blocked. Like, say, a laptop bag. And by &quot;shut itself down&quot; they mean &quot;hard
-power off, no saving your work&quot;. And they mean that they waited until the
+blocked. Like, say, a laptop bag. And by &amp;#8220;shut itself down&amp;#8221; they mean &amp;#8220;hard
+power off, no saving your work&amp;#8221;. And they mean that they waited until the
 battery was half drained to do that.&lt;/p&gt;
 
 &lt;p&gt;Now, I checked and I do have the laptop set to sleep when I close the lid. So
-it should have just slept, and it shouldn&#39;t have been generating heat
-(although I&#39;m not certain if the Windows sleep really does go that far), so it
-shouldn&#39;t have had this problem. But it did. I&#39;m guessing the culprit is
+it should have just slept, and it shouldn&amp;#8217;t have been generating heat
+(although I&amp;#8217;m not certain if the Windows sleep really does go that far), so it
+shouldn&amp;#8217;t have had this problem. But it did. I&amp;#8217;m guessing the culprit is
 Outlook, which often prevents rebooting because of third-party integrations
-that aren&#39;t very well-done, so maybe it also prevented sleeping.&lt;/p&gt;
+that aren&amp;#8217;t very well-done, so maybe it also prevented sleeping.&lt;/p&gt;
 
 &lt;p&gt;But then of course, the culprit is Windows for actually listening to Outlook
 and not putting the laptop to sleep.&lt;/p&gt;
 
 &lt;p&gt;And then Dell is really the savior here; faced with Windows not sleeping when
-it was supposed to, Dell&#39;s choice was either to let the laptop overheat (and
+it was supposed to, Dell&amp;#8217;s choice was either to let the laptop overheat (and
 break permanently), or build a feature to shut it off when it begins to. So,
 thanks, Dell!&lt;/p&gt;
 
-&lt;p&gt;But more than that, thanks to Apple for making devices where I just don&#39;t have
+&lt;p&gt;But more than that, thanks to Apple for making devices where I just don&amp;#8217;t have
 to worry about crap like this!&lt;/p&gt;
 
 &lt;h5&gt;Comments&lt;/h5&gt;
@@ -81,14 +81,14 @@ to worry about crap like this!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://mattmc3.blogspot.com&quot;&gt;mattmc3&lt;/a&gt; says:&lt;/p&gt;
 
-&lt;p&gt;I know, right? The thought of ever going back just doesn&#39;t cross my mind. But,
+&lt;p&gt;I know, right? The thought of ever going back just doesn&amp;#8217;t cross my mind. But,
 as a counter-point, I did have the exact opposite problem today in fact. I
 wanted my laptop to stay on while I updated the maps on my Garmin and the Mac
 insisted it follow the energy settings which meant that the Garmin was 1/2
 updated when the laptop force ejected it as part of its sleep routine. The
 default behavior is certainly what you want 99% of the time, but for that 1% I
-wish there was an easy way to say &quot;delay sleep&quot; for x minutes because I know
-what I&#39;m doing and after that return to my prior settings automatically.&lt;/p&gt;
+wish there was an easy way to say &amp;#8220;delay sleep&amp;#8221; for x minutes because I know
+what I&amp;#8217;m doing and after that return to my prior settings automatically.&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt; &lt;a href=&quot;http://www.rainskit.com/blog/624/apple-vs-dell-microsoft#c000948&quot;&gt;172 days ago&lt;/a&gt;&lt;/li&gt;
