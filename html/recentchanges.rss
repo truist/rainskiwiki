@@ -8,6 +8,67 @@
 <description>rainskiwikit.com</description>
 <item>
 
+	<title>schmonz-web-git: change to blog/624/apple-vs-dell-microsoft blog/628/how-i-manage-my-inbox blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media blog/630/this-year-for-lent on rainskiwikit.com</title>
+	<dcterms:creator>schmonz-web-git</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_cd33794495aea37faddd47994b30e7366f8a2982.html</guid>
+
+	<link>http://magnetic-babysitter.local/recentchanges.html#change-cd33794495aea37faddd47994b30e7366f8a2982</link>
+
+	<pubDate>Sat, 31 Aug 2013 16:24:06 -0400</pubDate>
+	<dcterms:modified>2013-08-31T20:24:06Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-cd33794495aea37faddd47994b30e7366f8a2982&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+blog/624/apple-vs-dell-microsoft
+
+blog/628/how-i-manage-my-inbox
+
+blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media
+
+blog/630/this-year-for-lent
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sat, 31 Aug 2013 16:24:06 -0400&quot;&gt;at teatime on Saturday 08/31/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add meta date tags&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
 	<title>schmonz-web-git: change to templates/page.tmpl on rainskiwikit.com</title>
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
@@ -173,13 +234,13 @@ play with textile and excerpts&lt;br /&gt;
 </item>
 <item>
 
-	<title>schmonz-web-git: change to tag/flying on rainskiwikit.com</title>
+	<title>schmonz-web-git: change to tag/product_management on rainskiwikit.com</title>
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62.html</guid>
+	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62</link>
+	<link>http://magnetic-babysitter.local/recentchanges.html#change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
@@ -190,14 +251,14 @@ play with textile and excerpts&lt;br /&gt;
 
 
 
-&lt;div id=&quot;change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
 
 
-tag/flying
+tag/product management
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -216,7 +277,7 @@ schmonz-web-git
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-creating tag page tag/flying&lt;br /&gt;
+creating tag page tag/product_management&lt;br /&gt;
 
 
 &lt;/div&gt;
@@ -283,13 +344,13 @@ creating tag page tag/agile&lt;br /&gt;
 </item>
 <item>
 
-	<title>schmonz-web-git: change to tag/business on rainskiwikit.com</title>
+	<title>schmonz-web-git: change to tag/flying on rainskiwikit.com</title>
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_636c75e8333c035c640a2f198f971c221f52620f.html</guid>
+	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-636c75e8333c035c640a2f198f971c221f52620f</link>
+	<link>http://magnetic-babysitter.local/recentchanges.html#change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
@@ -300,14 +361,14 @@ creating tag page tag/agile&lt;br /&gt;
 
 
 
-&lt;div id=&quot;change-636c75e8333c035c640a2f198f971c221f52620f&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
 
 
-tag/business
+tag/flying
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -326,7 +387,7 @@ schmonz-web-git
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-creating tag page tag/business&lt;br /&gt;
+creating tag page tag/flying&lt;br /&gt;
 
 
 &lt;/div&gt;
@@ -393,13 +454,13 @@ creating tag page tag/travel&lt;br /&gt;
 </item>
 <item>
 
-	<title>schmonz-web-git: change to tag/product_management on rainskiwikit.com</title>
+	<title>schmonz-web-git: change to tag/business on rainskiwikit.com</title>
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f.html</guid>
+	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_636c75e8333c035c640a2f198f971c221f52620f.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f</link>
+	<link>http://magnetic-babysitter.local/recentchanges.html#change-636c75e8333c035c640a2f198f971c221f52620f</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
@@ -410,14 +471,14 @@ creating tag page tag/travel&lt;br /&gt;
 
 
 
-&lt;div id=&quot;change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-636c75e8333c035c640a2f198f971c221f52620f&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
 
 
-tag/product management
+tag/business
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -436,7 +497,7 @@ schmonz-web-git
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-creating tag page tag/product_management&lt;br /&gt;
+creating tag page tag/business&lt;br /&gt;
 
 
 &lt;/div&gt;

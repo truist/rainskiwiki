@@ -17,7 +17,74 @@
 
 <subtitle type="html">rainskiwikit.com</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-08-31T20:16:29Z</updated>
+<updated>2013-08-31T20:24:06Z</updated>
+<entry>
+	<title>change to blog/624/apple-vs-dell-microsoft blog/628/how-i-manage-my-inbox blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media blog/630/this-year-for-lent on rainskiwikit.com</title>
+
+	<id>http://magnetic-babysitter.local/recentchanges/change_cd33794495aea37faddd47994b30e7366f8a2982.html</id>
+
+	<link href="http://magnetic-babysitter.local/recentchanges.html#change-cd33794495aea37faddd47994b30e7366f8a2982"/>
+
+	<author><name>schmonz-web-git</name></author>
+
+
+
+
+
+	<updated>2013-08-31T20:24:06Z</updated>
+	<published>2013-08-31T20:24:06Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-cd33794495aea37faddd47994b30e7366f8a2982&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+blog/624/apple-vs-dell-microsoft
+
+blog/628/how-i-manage-my-inbox
+
+blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media
+
+blog/630/this-year-for-lent
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sat, 31 Aug 2013 16:24:06 -0400&quot;&gt;at teatime on Saturday 08/31/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+add meta date tags&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to templates/page.tmpl on rainskiwikit.com</title>
 
@@ -202,11 +269,11 @@ play with textile and excerpts&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to tag/flying on rainskiwikit.com</title>
+	<title>change to tag/product_management on rainskiwikit.com</title>
 
-	<id>http://magnetic-babysitter.local/recentchanges/change_bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62.html</id>
+	<id>http://magnetic-babysitter.local/recentchanges/change_a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f.html</id>
 
-	<link href="http://magnetic-babysitter.local/recentchanges.html#change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62"/>
+	<link href="http://magnetic-babysitter.local/recentchanges.html#change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f"/>
 
 	<author><name>schmonz-web-git</name></author>
 
@@ -224,14 +291,14 @@ play with textile and excerpts&lt;br /&gt;
 
 
 
-&lt;div id=&quot;change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
 
 
-tag/flying
+tag/product management
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -250,7 +317,7 @@ schmonz-web-git
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-creating tag page tag/flying&lt;br /&gt;
+creating tag page tag/product_management&lt;br /&gt;
 
 
 &lt;/div&gt;
@@ -324,11 +391,11 @@ creating tag page tag/agile&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to tag/business on rainskiwikit.com</title>
+	<title>change to tag/flying on rainskiwikit.com</title>
 
-	<id>http://magnetic-babysitter.local/recentchanges/change_636c75e8333c035c640a2f198f971c221f52620f.html</id>
+	<id>http://magnetic-babysitter.local/recentchanges/change_bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62.html</id>
 
-	<link href="http://magnetic-babysitter.local/recentchanges.html#change-636c75e8333c035c640a2f198f971c221f52620f"/>
+	<link href="http://magnetic-babysitter.local/recentchanges.html#change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62"/>
 
 	<author><name>schmonz-web-git</name></author>
 
@@ -346,14 +413,14 @@ creating tag page tag/agile&lt;br /&gt;
 
 
 
-&lt;div id=&quot;change-636c75e8333c035c640a2f198f971c221f52620f&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
 
 
-tag/business
+tag/flying
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -372,7 +439,7 @@ schmonz-web-git
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-creating tag page tag/business&lt;br /&gt;
+creating tag page tag/flying&lt;br /&gt;
 
 
 &lt;/div&gt;
@@ -446,11 +513,11 @@ creating tag page tag/travel&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to tag/product_management on rainskiwikit.com</title>
+	<title>change to tag/business on rainskiwikit.com</title>
 
-	<id>http://magnetic-babysitter.local/recentchanges/change_a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f.html</id>
+	<id>http://magnetic-babysitter.local/recentchanges/change_636c75e8333c035c640a2f198f971c221f52620f.html</id>
 
-	<link href="http://magnetic-babysitter.local/recentchanges.html#change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f"/>
+	<link href="http://magnetic-babysitter.local/recentchanges.html#change-636c75e8333c035c640a2f198f971c221f52620f"/>
 
 	<author><name>schmonz-web-git</name></author>
 
@@ -468,14 +535,14 @@ creating tag page tag/travel&lt;br /&gt;
 
 
 
-&lt;div id=&quot;change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-636c75e8333c035c640a2f198f971c221f52620f&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
 
 
-tag/product management
+tag/business
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -494,7 +561,7 @@ schmonz-web-git
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-creating tag page tag/product_management&lt;br /&gt;
+creating tag page tag/business&lt;br /&gt;
 
 
 &lt;/div&gt;
