@@ -23,6 +23,8 @@ those opinions here.
 
 #### 1. You say you support a woman’s right to make her own reproductive choices in regards to abortion and contraception. Are there any restrictions you would approve of?
 
+[[!more linktext="Read more..." text="""
+
 Yes: no abortions after the first trimester unless the pregnancy puts the
 mother's life at an unusually-high level of risk.
 
@@ -127,6 +129,8 @@ self-aware.
 During the first trimester, no. After… well, if they knew they were killing
 the fetus, then yes. But if they didn't, then the second count shouldn't
 actually be "murder"; it should be "involuntary manslaughter".
+
+"""]]
 
    [1]: http://www.rainskit.com/
    [2]: http://www.rainskit.com/blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media
