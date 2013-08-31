@@ -62,7 +62,8 @@ underlaydir: /usr/pkg/share/ikiwiki/basewiki
 # log to syslog?
 syslog: 1
 # create output files named page/index.html?
-usedirs: 1
+# temporarily 0 for easy local file:/// browsing
+usedirs: 0
 # use '!'-prefixed preprocessor directives?
 prefix_directives: 1
 # use page/index.mdwn source files

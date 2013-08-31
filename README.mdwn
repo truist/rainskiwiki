@@ -111,3 +111,7 @@ rainskiwiki
 * (new articles in markdown?)
 
 ### (aggregate twitter into blog)
+
+### Before going live
+
+* set `usedirs` back to 1 (the default)
