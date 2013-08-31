@@ -2,7 +2,7 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>rainskiwikit.com</title>
-<link href="http://magnetic-babysitter.local/"/>
+<link href="http://magnetic-babysitter.local/index.html"/>
 <link href="http://magnetic-babysitter.local/index.atom" rel="self" type="application/atom+xml"/>
 <author>
 
@@ -13,7 +13,7 @@
 
 
 
-<id>http://magnetic-babysitter.local/</id>
+<id>http://magnetic-babysitter.local/index.html</id>
 
 <subtitle type="html">rainskiwikit.com</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
@@ -21,9 +21,9 @@
 <entry>
 	<title>This year for Lent...</title>
 
-	<id>http://magnetic-babysitter.local/blog/630/this-year-for-lent/</id>
+	<id>http://magnetic-babysitter.local/blog/630/this-year-for-lent.html</id>
 
-	<link href="http://magnetic-babysitter.local/blog/630/this-year-for-lent/"/>
+	<link href="http://magnetic-babysitter.local/blog/630/this-year-for-lent.html"/>
 
 
 
@@ -55,9 +55,9 @@ year will be a &lt;em&gt;serious&lt;/em&gt; test of my self-discipline &lt;img s
 <entry>
 	<title>10 Questions a Pro-Choice Candidate Is Never Asked by the Media</title>
 
-	<id>http://magnetic-babysitter.local/blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media/</id>
+	<id>http://magnetic-babysitter.local/blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media.html</id>
 
-	<link href="http://magnetic-babysitter.local/blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media/"/>
+	<link href="http://magnetic-babysitter.local/blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media.html"/>
 
 
 
@@ -211,9 +211,9 @@ actually be &amp;#8220;murder&amp;#8221;; it should be &amp;#8220;involuntary ma
 <entry>
 	<title>Apple vs. Dell/Microsoft</title>
 
-	<id>http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft/</id>
+	<id>http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html</id>
 
-	<link href="http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft/"/>
+	<link href="http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html"/>
 
 
 
@@ -318,9 +318,9 @@ what I&amp;#8217;m doing and after that return to my prior settings automaticall
 <entry>
 	<title>How I manage my inbox</title>
 
-	<id>http://magnetic-babysitter.local/blog/628/how-i-manage-my-inbox/</id>
+	<id>http://magnetic-babysitter.local/blog/628/how-i-manage-my-inbox.html</id>
 
-	<link href="http://magnetic-babysitter.local/blog/628/how-i-manage-my-inbox/"/>
+	<link href="http://magnetic-babysitter.local/blog/628/how-i-manage-my-inbox.html"/>
 
 
 
@@ -485,9 +485,9 @@ that I stopped saving all email, a few years ago.&lt;/p&gt;
 <entry>
 	<title>Laptop bag 4.0, backlogs, and story form</title>
 
-	<id>http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form/</id>
+	<id>http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form.html</id>
 
-	<link href="http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form/"/>
+	<link href="http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form.html"/>
 
 
 
@@ -526,7 +526,7 @@ that I stopped saving all email, a few years ago.&lt;/p&gt;
 &lt;p&gt;I haven&amp;#39;t yet found the bag, but in the meantime, I&amp;#39;ve written this blog post, because it provided the excuse I needed to really &lt;del&gt;go batshit insane&lt;/del&gt; do a thorough job of my analysis.  Not only does this post include a detailed list of requirements for my perfect laptop bag, but it also includes a glance into what I do in my life as a &lt;a href=&quot;http://www.rainskit.com/blog/586/what-i-do&quot;&gt;Product Manager&lt;/a&gt;.  Hopefully one or the other of those is interesting enough to keep your attention &lt;img src=&quot;http://magnetic-babysitter.local/./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
 
 
-&lt;p&gt;&lt;a href=&quot;http://magnetic-babysitter.local/./blog/622/laptop-bag-40-backlogs-and-story-form/#more&quot;&gt;Read more&amp;#8230;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://magnetic-babysitter.local/./blog/622/laptop-bag-40-backlogs-and-story-form.html#more&quot;&gt;Read more&amp;#8230;&lt;/a&gt;&lt;/p&gt;
 	</content>
 
 
