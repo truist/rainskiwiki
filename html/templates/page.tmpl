@@ -42,6 +42,7 @@
 	<link rel="stylesheet" type="text/css" media="print" href="<TMPL_VAR BASEURL>css/print.css" />
 	-->
 
+<TMPL_UNLESS DYNAMIC>
 <TMPL_IF EDITURL>
 <link rel="alternate" type="application/x-wiki" title="Edit this page" href="<TMPL_VAR EDITURL>" />
 </TMPL_IF>
@@ -57,6 +58,8 @@
 <link rel="next" href="<TMPL_VAR NEXTURL>" title="<TMPL_VAR NEXTTITLE>" />
 </TMPL_IF>
 </TMPL_LOOP>
+</TMPL_UNLESS>
+
 </head>
 <body>
 
@@ -77,11 +80,11 @@
 </TMPL_IF>
 </span>
 </span>
-<!--
+<TMPL_UNLESS DYNAMIC>
 <TMPL_IF SEARCHFORM>
 <TMPL_VAR SEARCHFORM>
 </TMPL_IF>
--->
+</TMPL_UNLESS>
 <TMPL_IF HTML5></header><TMPL_ELSE></div></TMPL_IF>
 
 <TMPL_IF HAVE_ACTIONS>
@@ -135,18 +138,19 @@
 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 </TMPL_IF>
 
+<TMPL_UNLESS DYNAMIC>
 <TMPL_VAR TRAILS>
+</TMPL_UNLESS>
 
 <TMPL_IF HTML5></section><TMPL_ELSE></div></TMPL_IF>
 
+<TMPL_UNLESS DYNAMIC>
 <TMPL_IF SIDEBAR>
 <TMPL_IF HTML5><aside class="sidebar"><TMPL_ELSE><div class="sidebar"></TMPL_IF>
-	<TMPL_IF SEARCHFORM>
-	<TMPL_VAR SEARCHFORM>
-	</TMPL_IF>
 <TMPL_VAR SIDEBAR>
 <TMPL_IF HTML5></aside><TMPL_ELSE></div></TMPL_IF>
 </TMPL_IF>
+</TMPL_UNLESS>
 
 <div id="pagebody">
 
@@ -185,7 +189,6 @@
 
 <TMPL_VAR TRAILS>
 
-<!--
 <TMPL_IF TAGS>
 <TMPL_IF HTML5><nav class="tags"><TMPL_ELSE><div class="tags"></TMPL_IF>
 Tags:
@@ -194,7 +197,6 @@ Tags:
 </TMPL_LOOP>
 <TMPL_IF HTML5></nav><TMPL_ELSE></div></TMPL_IF>
 </TMPL_IF>
--->
 
 <TMPL_IF BACKLINKS>
 <TMPL_IF HTML5><nav id="backlinks"><TMPL_ELSE><div id="backlinks"></TMPL_IF>

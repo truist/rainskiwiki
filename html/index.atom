@@ -209,113 +209,6 @@ actually be &amp;#8220;murder&amp;#8221;; it should be &amp;#8220;involuntary ma
 
 </entry>
 <entry>
-	<title>Apple vs. Dell/Microsoft</title>
-
-	<id>http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html</id>
-
-	<link href="http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html"/>
-
-
-
-
-
-
-	<category term="apple" />
-
-	<category term="reviews" />
-
-	<category term="usability" />
-
-
-	<updated>2013-06-03T00:02:15Z</updated>
-	<published>2013-06-03T00:02:15Z</published>
-
-	<content type="html" xml:lang="en">
-	&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;h4&gt;27 July 2012&lt;/h4&gt;
-
-&lt;p&gt;I have a MacBook Air that I used as my work (consulting) computer for 18
-months or so. Then my new job gave me a Dell laptop that &lt;a href=&quot;https://plus.google.com/115702184162942442429/posts/HrRj16gEYJa&quot;&gt;feels seriously
-inferior&lt;/a&gt;, but as with all things Windows/Dell, it is sufficient.&lt;/p&gt;
-
-&lt;p&gt;So yesterday I did something I&amp;#8217;ve done hundreds of times before with my Air,
-but never before with my Dell: I closed the lid at the end of the day without
-shutting things down first, stuffed it in my bag, and went home. (I was in a
-hurry.)&lt;/p&gt;
-
-&lt;p&gt;On the Air, that reliably sleeps the laptop, and I can always trust that
-everything will be exactly as I left it when I reopen the lid, and the battery
-won&amp;#8217;t have drained at all.&lt;/p&gt;
-
-&lt;p&gt;I knew not to trust the same thing on Windows, but I was in a hurry so I
-decided to risk it, and maybe if it turned out well I&amp;#8217;d adjust my opinion
-about Windows.&lt;/p&gt;
-
-&lt;p&gt;So what did I see when I opened it this morning? A boot-time message telling
-me that the laptop had shut itself down because it was overheating, which
-usually happens because it is in a tightly enclosed space with the fan vents
-blocked. Like, say, a laptop bag. And by &amp;#8220;shut itself down&amp;#8221; they mean &amp;#8220;hard
-power off, no saving your work&amp;#8221;. And they mean that they waited until the
-battery was half drained to do that.&lt;/p&gt;
-
-&lt;p&gt;Now, I checked and I do have the laptop set to sleep when I close the lid. So
-it should have just slept, and it shouldn&amp;#8217;t have been generating heat
-(although I&amp;#8217;m not certain if the Windows sleep really does go that far), so it
-shouldn&amp;#8217;t have had this problem. But it did. I&amp;#8217;m guessing the culprit is
-Outlook, which often prevents rebooting because of third-party integrations
-that aren&amp;#8217;t very well-done, so maybe it also prevented sleeping.&lt;/p&gt;
-
-&lt;p&gt;But then of course, the culprit is Windows for actually listening to Outlook
-and not putting the laptop to sleep.&lt;/p&gt;
-
-&lt;p&gt;And then Dell is really the savior here; faced with Windows not sleeping when
-it was supposed to, Dell&amp;#8217;s choice was either to let the laptop overheat (and
-break permanently), or build a feature to shut it off when it begins to. So,
-thanks, Dell!&lt;/p&gt;
-
-&lt;p&gt;But more than that, thanks to Apple for making devices where I just don&amp;#8217;t have
-to worry about crap like this!&lt;/p&gt;
-
-&lt;h5&gt;Comments&lt;/h5&gt;
-
-&lt;ol&gt;
-&lt;li&gt; &lt;a href=&quot;http://www.rainskit.com/blog/624/apple-vs-dell-microsoft#c000947&quot;&gt;172 days ago&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://mattmc3.blogspot.com&quot;&gt;mattmc3&lt;/a&gt; says:&lt;/p&gt;
-
-&lt;p&gt;I know, right? The thought of ever going back just doesn&amp;#8217;t cross my mind. But,
-as a counter-point, I did have the exact opposite problem today in fact. I
-wanted my laptop to stay on while I updated the maps on my Garmin and the Mac
-insisted it follow the energy settings which meant that the Garmin was 1/2
-updated when the laptop force ejected it as part of its sleep routine. The
-default behavior is certainly what you want 99% of the time, but for that 1% I
-wish there was an easy way to say &amp;#8220;delay sleep&amp;#8221; for x minutes because I know
-what I&amp;#8217;m doing and after that return to my prior settings automatically.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt; &lt;a href=&quot;http://www.rainskit.com/blog/624/apple-vs-dell-microsoft#c000948&quot;&gt;172 days ago&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com&quot;&gt;Nathan Arthur&lt;/a&gt; says:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://semaja2.net/insomniaxinfo&quot;&gt;InsomniaX&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://code.google.com/p/macosx-nosleep-extension/&quot;&gt;NoSleep&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;(And &lt;a href=&quot;http://lightheadsw.com/caffeine/&quot;&gt;Caffeine&lt;/a&gt; for non-lid-closed cases)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://magnetic-babysitter.local/./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
-
-	</content>
-
-
-
-</entry>
-<entry>
 	<title>How I manage my inbox</title>
 
 	<id>http://magnetic-babysitter.local/blog/628/how-i-manage-my-inbox.html</id>
@@ -476,6 +369,113 @@ separate them out. (I already do separate out email lists.)&lt;/p&gt;
 
 &lt;p&gt;My system has evolved somewhat over time, but the only major difference was
 that I stopped saving all email, a few years ago.&lt;/p&gt;
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>Apple vs. Dell/Microsoft</title>
+
+	<id>http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html</id>
+
+	<link href="http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html"/>
+
+
+
+
+
+
+	<category term="apple" />
+
+	<category term="reviews" />
+
+	<category term="usability" />
+
+
+	<updated>2013-06-03T00:02:15Z</updated>
+	<published>2013-06-03T00:02:15Z</published>
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;27 July 2012&lt;/h4&gt;
+
+&lt;p&gt;I have a MacBook Air that I used as my work (consulting) computer for 18
+months or so. Then my new job gave me a Dell laptop that &lt;a href=&quot;https://plus.google.com/115702184162942442429/posts/HrRj16gEYJa&quot;&gt;feels seriously
+inferior&lt;/a&gt;, but as with all things Windows/Dell, it is sufficient.&lt;/p&gt;
+
+&lt;p&gt;So yesterday I did something I&amp;#8217;ve done hundreds of times before with my Air,
+but never before with my Dell: I closed the lid at the end of the day without
+shutting things down first, stuffed it in my bag, and went home. (I was in a
+hurry.)&lt;/p&gt;
+
+&lt;p&gt;On the Air, that reliably sleeps the laptop, and I can always trust that
+everything will be exactly as I left it when I reopen the lid, and the battery
+won&amp;#8217;t have drained at all.&lt;/p&gt;
+
+&lt;p&gt;I knew not to trust the same thing on Windows, but I was in a hurry so I
+decided to risk it, and maybe if it turned out well I&amp;#8217;d adjust my opinion
+about Windows.&lt;/p&gt;
+
+&lt;p&gt;So what did I see when I opened it this morning? A boot-time message telling
+me that the laptop had shut itself down because it was overheating, which
+usually happens because it is in a tightly enclosed space with the fan vents
+blocked. Like, say, a laptop bag. And by &amp;#8220;shut itself down&amp;#8221; they mean &amp;#8220;hard
+power off, no saving your work&amp;#8221;. And they mean that they waited until the
+battery was half drained to do that.&lt;/p&gt;
+
+&lt;p&gt;Now, I checked and I do have the laptop set to sleep when I close the lid. So
+it should have just slept, and it shouldn&amp;#8217;t have been generating heat
+(although I&amp;#8217;m not certain if the Windows sleep really does go that far), so it
+shouldn&amp;#8217;t have had this problem. But it did. I&amp;#8217;m guessing the culprit is
+Outlook, which often prevents rebooting because of third-party integrations
+that aren&amp;#8217;t very well-done, so maybe it also prevented sleeping.&lt;/p&gt;
+
+&lt;p&gt;But then of course, the culprit is Windows for actually listening to Outlook
+and not putting the laptop to sleep.&lt;/p&gt;
+
+&lt;p&gt;And then Dell is really the savior here; faced with Windows not sleeping when
+it was supposed to, Dell&amp;#8217;s choice was either to let the laptop overheat (and
+break permanently), or build a feature to shut it off when it begins to. So,
+thanks, Dell!&lt;/p&gt;
+
+&lt;p&gt;But more than that, thanks to Apple for making devices where I just don&amp;#8217;t have
+to worry about crap like this!&lt;/p&gt;
+
+&lt;h5&gt;Comments&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt; &lt;a href=&quot;http://www.rainskit.com/blog/624/apple-vs-dell-microsoft#c000947&quot;&gt;172 days ago&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://mattmc3.blogspot.com&quot;&gt;mattmc3&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;p&gt;I know, right? The thought of ever going back just doesn&amp;#8217;t cross my mind. But,
+as a counter-point, I did have the exact opposite problem today in fact. I
+wanted my laptop to stay on while I updated the maps on my Garmin and the Mac
+insisted it follow the energy settings which meant that the Garmin was 1/2
+updated when the laptop force ejected it as part of its sleep routine. The
+default behavior is certainly what you want 99% of the time, but for that 1% I
+wish there was an easy way to say &amp;#8220;delay sleep&amp;#8221; for x minutes because I know
+what I&amp;#8217;m doing and after that return to my prior settings automatically.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; &lt;a href=&quot;http://www.rainskit.com/blog/624/apple-vs-dell-microsoft#c000948&quot;&gt;172 days ago&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com&quot;&gt;Nathan Arthur&lt;/a&gt; says:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://semaja2.net/insomniaxinfo&quot;&gt;InsomniaX&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://code.google.com/p/macosx-nosleep-extension/&quot;&gt;NoSleep&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(And &lt;a href=&quot;http://lightheadsw.com/caffeine/&quot;&gt;Caffeine&lt;/a&gt; for non-lid-closed cases)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://magnetic-babysitter.local/./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
 
 	</content>
 

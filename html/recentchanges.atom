@@ -17,7 +17,68 @@
 
 <subtitle type="html">rainskiwikit.com</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-08-18T04:54:14Z</updated>
+<updated>2013-08-31T20:16:29Z</updated>
+<entry>
+	<title>change to templates/page.tmpl on rainskiwikit.com</title>
+
+	<id>http://magnetic-babysitter.local/recentchanges/change_ea864e8dec813493a7bdde2a94b687c8ce0fb1e6.html</id>
+
+	<link href="http://magnetic-babysitter.local/recentchanges.html#change-ea864e8dec813493a7bdde2a94b687c8ce0fb1e6"/>
+
+	<author><name>schmonz-web-git</name></author>
+
+
+
+
+
+	<updated>2013-08-31T20:16:29Z</updated>
+	<published>2013-08-31T20:16:29Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-ea864e8dec813493a7bdde2a94b687c8ce0fb1e6&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+templates/page.tmpl
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sat, 31 Aug 2013 16:16:29 -0400&quot;&gt;at teatime on Saturday 08/31/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+catch up to latest default page.tmpl&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
 <entry>
 	<title>change to blog/622/laptop-bag-40-backlogs-and-story-form on rainskiwikit.com</title>
 
@@ -141,11 +202,11 @@ play with textile and excerpts&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to tag/travel on rainskiwikit.com</title>
+	<title>change to tag/flying on rainskiwikit.com</title>
 
-	<id>http://magnetic-babysitter.local/recentchanges/change_1c10b9061765a784210199d6813b8b8d03231087.html</id>
+	<id>http://magnetic-babysitter.local/recentchanges/change_bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62.html</id>
 
-	<link href="http://magnetic-babysitter.local/recentchanges.html#change-1c10b9061765a784210199d6813b8b8d03231087"/>
+	<link href="http://magnetic-babysitter.local/recentchanges.html#change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62"/>
 
 	<author><name>schmonz-web-git</name></author>
 
@@ -163,14 +224,14 @@ play with textile and excerpts&lt;br /&gt;
 
 
 
-&lt;div id=&quot;change-1c10b9061765a784210199d6813b8b8d03231087&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
 
 
-tag/travel
+tag/flying
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -189,7 +250,7 @@ schmonz-web-git
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-creating tag page tag/travel&lt;br /&gt;
+creating tag page tag/flying&lt;br /&gt;
 
 
 &lt;/div&gt;
@@ -263,67 +324,6 @@ creating tag page tag/agile&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to tag/product_management on rainskiwikit.com</title>
-
-	<id>http://magnetic-babysitter.local/recentchanges/change_a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f.html</id>
-
-	<link href="http://magnetic-babysitter.local/recentchanges.html#change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f"/>
-
-	<author><name>schmonz-web-git</name></author>
-
-
-
-
-
-	<updated>2013-08-18T04:39:30Z</updated>
-	<published>2013-08-18T04:39:30Z</published>
-
-	<content type="html" xml:lang="en">
-	
-
-
-
-
-
-&lt;div id=&quot;change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-
-
-tag/product management
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-schmonz-web-git
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 18 Aug 2013 00:39:30 -0400&quot;&gt;late Saturday night 08/18/13&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-creating tag page tag/product_management&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-
-
-	</content>
-
-
-
-</entry>
-<entry>
 	<title>change to tag/business on rainskiwikit.com</title>
 
 	<id>http://magnetic-babysitter.local/recentchanges/change_636c75e8333c035c640a2f198f971c221f52620f.html</id>
@@ -385,11 +385,11 @@ creating tag page tag/business&lt;br /&gt;
 
 </entry>
 <entry>
-	<title>change to tag/flying on rainskiwikit.com</title>
+	<title>change to tag/travel on rainskiwikit.com</title>
 
-	<id>http://magnetic-babysitter.local/recentchanges/change_bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62.html</id>
+	<id>http://magnetic-babysitter.local/recentchanges/change_1c10b9061765a784210199d6813b8b8d03231087.html</id>
 
-	<link href="http://magnetic-babysitter.local/recentchanges.html#change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62"/>
+	<link href="http://magnetic-babysitter.local/recentchanges.html#change-1c10b9061765a784210199d6813b8b8d03231087"/>
 
 	<author><name>schmonz-web-git</name></author>
 
@@ -407,14 +407,14 @@ creating tag page tag/business&lt;br /&gt;
 
 
 
-&lt;div id=&quot;change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62&quot; class=&quot;metadata&quot;&gt;
+&lt;div id=&quot;change-1c10b9061765a784210199d6813b8b8d03231087&quot; class=&quot;metadata&quot;&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
 &lt;span class=&quot;pagelinks&quot;&gt;
 
 
 
 
-tag/flying
+tag/travel
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -433,7 +433,68 @@ schmonz-web-git
 &lt;div class=&quot;changelog&quot;&gt;
 
 
-creating tag page tag/flying&lt;br /&gt;
+creating tag page tag/travel&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+<entry>
+	<title>change to tag/product_management on rainskiwikit.com</title>
+
+	<id>http://magnetic-babysitter.local/recentchanges/change_a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f.html</id>
+
+	<link href="http://magnetic-babysitter.local/recentchanges.html#change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f"/>
+
+	<author><name>schmonz-web-git</name></author>
+
+
+
+
+
+	<updated>2013-08-18T04:39:30Z</updated>
+	<published>2013-08-18T04:39:30Z</published>
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+&lt;div id=&quot;change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+tag/product management
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 18 Aug 2013 00:39:30 -0400&quot;&gt;late Saturday night 08/18/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating tag page tag/product_management&lt;br /&gt;
 
 
 &lt;/div&gt;
