@@ -19,7 +19,6 @@ rainskiwiki
 
 ### Article excerpts on front page
 
-* tags
 * post date (N days ago)
 * tweet / G+ links
 * content
@@ -114,6 +113,7 @@ rainskiwiki
 * tag cloud
 * RSS/Atom
 * favicon
+* in the article list, each article excerpt starts by listing its tags
 
 ### Before going live
 
