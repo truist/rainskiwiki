@@ -4,17 +4,72 @@
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
 <title>RecentChanges</title>
-<link>http://magnetic-babysitter.local/recentchanges.html</link>
+<link>http://localhost/~truist/rainskiwiki//recentchanges.html</link>
 <description>rainskiwikit.com</description>
+<item>
+
+	<title>schmonz-web-git: change to blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media on rainskiwikit.com</title>
+	<dcterms:creator>schmonz-web-git</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_7239db06657e02a064f20aa2e935e5482e4bffce.html</guid>
+
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-7239db06657e02a064f20aa2e935e5482e4bffce</link>
+
+	<pubDate>Sat, 31 Aug 2013 16:46:21 -0400</pubDate>
+	<dcterms:modified>2013-08-31T20:46:21Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-7239db06657e02a064f20aa2e935e5482e4bffce&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sat, 31 Aug 2013 16:46:21 -0400&quot;&gt;Saturday afternoon 08/31/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+this sample post also wants a &amp;#91;&amp;#91;!more&amp;#93;&amp;#93; tag&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
 <item>
 
 	<title>schmonz-web-git: change to templates/page.tmpl on rainskiwikit.com</title>
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_ace087beac42478337e36742112b9ab24fd0d5e2.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_ace087beac42478337e36742112b9ab24fd0d5e2.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-ace087beac42478337e36742112b9ab24fd0d5e2</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-ace087beac42478337e36742112b9ab24fd0d5e2</link>
 
 	<pubDate>Sat, 31 Aug 2013 16:38:03 -0400</pubDate>
 	<dcterms:modified>2013-08-31T20:38:03Z</dcterms:modified>
@@ -67,9 +122,9 @@ turn on stylesheets (adjusting will be needed)&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_cd33794495aea37faddd47994b30e7366f8a2982.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_cd33794495aea37faddd47994b30e7366f8a2982.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-cd33794495aea37faddd47994b30e7366f8a2982</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-cd33794495aea37faddd47994b30e7366f8a2982</link>
 
 	<pubDate>Sat, 31 Aug 2013 16:24:06 -0400</pubDate>
 	<dcterms:modified>2013-08-31T20:24:06Z</dcterms:modified>
@@ -128,9 +183,9 @@ add meta date tags&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_ea864e8dec813493a7bdde2a94b687c8ce0fb1e6.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_ea864e8dec813493a7bdde2a94b687c8ce0fb1e6.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-ea864e8dec813493a7bdde2a94b687c8ce0fb1e6</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-ea864e8dec813493a7bdde2a94b687c8ce0fb1e6</link>
 
 	<pubDate>Sat, 31 Aug 2013 16:16:29 -0400</pubDate>
 	<dcterms:modified>2013-08-31T20:16:29Z</dcterms:modified>
@@ -183,9 +238,9 @@ catch up to latest default page.tmpl&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_c6169e67ade30b2cc4f793f06a60df85b094ea49.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_c6169e67ade30b2cc4f793f06a60df85b094ea49.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-c6169e67ade30b2cc4f793f06a60df85b094ea49</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-c6169e67ade30b2cc4f793f06a60df85b094ea49</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:54:14 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:54:14Z</dcterms:modified>
@@ -238,9 +293,9 @@ backdate old textile post, enable typography&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_c18f09d94f3b9229d530851c52ac46defa3e9535.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_c18f09d94f3b9229d530851c52ac46defa3e9535.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-c18f09d94f3b9229d530851c52ac46defa3e9535</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-c18f09d94f3b9229d530851c52ac46defa3e9535</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:39:47 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:39:47Z</dcterms:modified>
@@ -289,123 +344,13 @@ play with textile and excerpts&lt;br /&gt;
 </item>
 <item>
 
-	<title>schmonz-web-git: change to tag/flying on rainskiwikit.com</title>
-	<dcterms:creator>schmonz-web-git</dcterms:creator>
-
-
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62.html</guid>
-
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62</link>
-
-	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
-	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
-
-	<description>
-
-
-
-
-
-&lt;div id=&quot;change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-
-
-tag/flying
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-schmonz-web-git
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 18 Aug 2013 00:39:30 -0400&quot;&gt;late Saturday night 08/18/13&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-creating tag page tag/flying&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-
-</description>
-
-
-</item>
-<item>
-
-	<title>schmonz-web-git: change to tag/travel on rainskiwikit.com</title>
-	<dcterms:creator>schmonz-web-git</dcterms:creator>
-
-
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_1c10b9061765a784210199d6813b8b8d03231087.html</guid>
-
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-1c10b9061765a784210199d6813b8b8d03231087</link>
-
-	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
-	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
-
-	<description>
-
-
-
-
-
-&lt;div id=&quot;change-1c10b9061765a784210199d6813b8b8d03231087&quot; class=&quot;metadata&quot;&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
-&lt;span class=&quot;pagelinks&quot;&gt;
-
-
-
-
-tag/travel
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
-&lt;span class=&quot;committer&quot;&gt;
-
-schmonz-web-git
-
-&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
-&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
-&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 18 Aug 2013 00:39:30 -0400&quot;&gt;late Saturday night 08/18/13&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
-
-&lt;/div&gt;
-&lt;div class=&quot;changelog&quot;&gt;
-
-
-creating tag page tag/travel&lt;br /&gt;
-
-
-&lt;/div&gt;
-
-
-</description>
-
-
-</item>
-<item>
-
 	<title>schmonz-web-git: change to tag/agile on rainskiwikit.com</title>
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_97eddeb74ed8340babdb02639ff7ebadfd918884.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_97eddeb74ed8340babdb02639ff7ebadfd918884.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-97eddeb74ed8340babdb02639ff7ebadfd918884</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-97eddeb74ed8340babdb02639ff7ebadfd918884</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
@@ -454,13 +399,123 @@ creating tag page tag/agile&lt;br /&gt;
 </item>
 <item>
 
+	<title>schmonz-web-git: change to tag/travel on rainskiwikit.com</title>
+	<dcterms:creator>schmonz-web-git</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_1c10b9061765a784210199d6813b8b8d03231087.html</guid>
+
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-1c10b9061765a784210199d6813b8b8d03231087</link>
+
+	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
+	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-1c10b9061765a784210199d6813b8b8d03231087&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+tag/travel
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 18 Aug 2013 00:39:30 -0400&quot;&gt;late Saturday night 08/18/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating tag page tag/travel&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
+	<title>schmonz-web-git: change to tag/flying on rainskiwikit.com</title>
+	<dcterms:creator>schmonz-web-git</dcterms:creator>
+
+
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62.html</guid>
+
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62</link>
+
+	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
+	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
+
+	<description>
+
+
+
+
+
+&lt;div id=&quot;change-bdbbeffcabe03cd86ab7b193923d0c1cfe21bc62&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+tag/flying
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+schmonz-web-git
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;relativedate&quot; title=&quot;Sun, 18 Aug 2013 00:39:30 -0400&quot;&gt;late Saturday night 08/18/13&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+creating tag page tag/flying&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+</description>
+
+
+</item>
+<item>
+
 	<title>schmonz-web-git: change to tag/product_management on rainskiwikit.com</title>
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-a0d62f9e434350a7d23ed45f4ceefa7ac9ff100f</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
@@ -513,9 +568,9 @@ creating tag page tag/product_management&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_636c75e8333c035c640a2f198f971c221f52620f.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_636c75e8333c035c640a2f198f971c221f52620f.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-636c75e8333c035c640a2f198f971c221f52620f</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-636c75e8333c035c640a2f198f971c221f52620f</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:39:30 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:39:30Z</dcterms:modified>
@@ -568,9 +623,9 @@ creating tag page tag/business&lt;br /&gt;
 	<dcterms:creator>narthur-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_be23772216005d5191578569de89ef3a5ad7a69d.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_be23772216005d5191578569de89ef3a5ad7a69d.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-be23772216005d5191578569de89ef3a5ad7a69d</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-be23772216005d5191578569de89ef3a5ad7a69d</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:33:50 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:33:50Z</dcterms:modified>
@@ -623,9 +678,9 @@ add a textile article&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_c7315109513c1c5d253553f0d4296074b65d3363.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_c7315109513c1c5d253553f0d4296074b65d3363.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-c7315109513c1c5d253553f0d4296074b65d3363</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-c7315109513c1c5d253553f0d4296074b65d3363</link>
 
 	<pubDate>Sun, 18 Aug 2013 00:23:28 -0400</pubDate>
 	<dcterms:modified>2013-08-18T04:23:28Z</dcterms:modified>
@@ -663,7 +718,7 @@ archives/2013/08
 
 archives/2013/09
 
-&amp;#8230;
+...
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
@@ -698,9 +753,9 @@ calendar update&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_2c096c411a95f39b5355bffe19efa4ca36126f07.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_2c096c411a95f39b5355bffe19efa4ca36126f07.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-2c096c411a95f39b5355bffe19efa4ca36126f07</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-2c096c411a95f39b5355bffe19efa4ca36126f07</link>
 
 	<pubDate>Sun, 02 Jun 2013 22:33:26 -0400</pubDate>
 	<dcterms:modified>2013-06-03T02:33:26Z</dcterms:modified>
@@ -753,9 +808,9 @@ add a recent (and conveniently short) post&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_982c619e467deda90318768d18eab1376a4fa3af.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_982c619e467deda90318768d18eab1376a4fa3af.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-982c619e467deda90318768d18eab1376a4fa3af</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-982c619e467deda90318768d18eab1376a4fa3af</link>
 
 	<pubDate>Sun, 02 Jun 2013 22:30:31 -0400</pubDate>
 	<dcterms:modified>2013-06-03T02:30:31Z</dcterms:modified>
@@ -808,9 +863,9 @@ creating tag page tag/lent&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_096cb8fa09041a40e1e156b09df909e6204f2f25.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_096cb8fa09041a40e1e156b09df909e6204f2f25.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-096cb8fa09041a40e1e156b09df909e6204f2f25</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-096cb8fa09041a40e1e156b09df909e6204f2f25</link>
 
 	<pubDate>Sun, 02 Jun 2013 20:11:41 -0400</pubDate>
 	<dcterms:modified>2013-06-03T00:11:41Z</dcterms:modified>
@@ -863,9 +918,9 @@ add configuration and generated HTML so far&lt;br /&gt;
 	<dcterms:creator>schmonz-web-git</dcterms:creator>
 
 
-	<guid isPermaLink="false">http://magnetic-babysitter.local/recentchanges/change_7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9.html</guid>
+	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//recentchanges/change_7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9.html</guid>
 
-	<link>http://magnetic-babysitter.local/recentchanges.html#change-7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9</link>
+	<link>http://localhost/~truist/rainskiwiki/recentchanges.html#change-7e2f04e8f3560a8bb20cdf514edfddd8f61cbaf9</link>
 
 	<pubDate>Sun, 02 Jun 2013 20:02:03 -0400</pubDate>
 	<dcterms:modified>2013-06-03T00:02:03Z</dcterms:modified>
@@ -903,7 +958,7 @@ css/colors textures.css
 
 css/comments.css
 
-&amp;#8230;
+...
 
 &lt;/span&gt;
 &lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;

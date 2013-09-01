@@ -2,8 +2,8 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>pages tagged business</title>
-<link href="http://magnetic-babysitter.local/tag/business.html"/>
-<link href="http://magnetic-babysitter.local/tag/business.atom" rel="self" type="application/atom+xml"/>
+<link href="http://localhost/~truist/rainskiwiki//tag/business.html"/>
+<link href="http://localhost/~truist/rainskiwiki//tag/business.atom" rel="self" type="application/atom+xml"/>
 <author>
 
 <name>rainskiwikit.com</name>
@@ -13,17 +13,17 @@
 
 
 
-<id>http://magnetic-babysitter.local/tag/business.html</id>
+<id>http://localhost/~truist/rainskiwiki//tag/business.html</id>
 
 <subtitle type="html">rainskiwikit.com</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-08-31T20:24:01Z</updated>
+<updated>2013-08-31T20:01:47Z</updated>
 <entry>
 	<title>Laptop bag 4.0, backlogs, and story form</title>
 
-	<id>http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form.html</id>
+	<id>http://localhost/~truist/rainskiwiki//blog/622/laptop-bag-40-backlogs-and-story-form.html</id>
 
-	<link href="http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form.html"/>
+	<link href="http://localhost/~truist/rainskiwiki//blog/622/laptop-bag-40-backlogs-and-story-form.html"/>
 
 
 
@@ -49,20 +49,25 @@
 	<category term="usability" />
 
 
-	<updated>2013-08-31T20:24:01Z</updated>
+	<updated>2013-08-31T20:01:47Z</updated>
 	<published>2012-05-22T04:00:00Z</published>
 
 	<content type="html" xml:lang="en">
-	&lt;p&gt;Somewhere out there is a laptop bag just waiting for me to find it.  But first, I have to spec it out.&lt;/p&gt;
-
-&lt;p&gt;Like &lt;a href=&quot;http://www.randsinrepose.com/&quot;&gt;Rands&lt;/a&gt;, I recently got &lt;a href=&quot;http://www.randsinrepose.com/archives/2011/12/04/a_bag_of_holding.html&quot;&gt;laptop bag religion&lt;/a&gt; and I spent an excessive amount of time cogitating about features, price, tradeoffs, where to buy, and features again.&lt;/p&gt;
-
-&lt;p&gt;Then I got serious about it.&lt;/p&gt;
-
-&lt;p&gt;I haven&amp;#39;t yet found the bag, but in the meantime, I&amp;#39;ve written this blog post, because it provided the excuse I needed to really &lt;del&gt;go batshit insane&lt;/del&gt; do a thorough job of my analysis.  Not only does this post include a detailed list of requirements for my perfect laptop bag, but it also includes a glance into what I do in my life as a &lt;a href=&quot;http://www.rainskit.com/blog/586/what-i-do&quot;&gt;Product Manager&lt;/a&gt;.  Hopefully one or the other of those is interesting enough to keep your attention &lt;img src=&quot;http://magnetic-babysitter.local/tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
+	
 
 
-&lt;p&gt;&lt;a href=&quot;http://magnetic-babysitter.local/tag/../blog/622/laptop-bag-40-backlogs-and-story-form.html#more&quot;&gt;Read more&amp;#8230;&lt;/a&gt;&lt;/p&gt;
+
+Somewhere out there is a laptop bag just waiting for me to find it.  But first, I have to spec it out.
+
+Like &quot;Rands&quot;:http://www.randsinrepose.com/, I recently got &quot;laptop bag religion&quot;:http://www.randsinrepose.com/archives/2011/12/04/a_bag_of_holding.html and I spent an excessive amount of time cogitating about features, price, tradeoffs, where to buy, and features again.
+
+Then I got serious about it.
+
+I haven&#39;t yet found the bag, but in the meantime, I&#39;ve written this blog post, because it provided the excuse I needed to really -go batshit insane- do a thorough job of my analysis.  Not only does this post include a detailed list of requirements for my perfect laptop bag, but it also includes a glance into what I do in my life as a &quot;Product Manager&quot;:http://www.rainskit.com/blog/586/what-i-do.  Hopefully one or the other of those is interesting enough to keep your attention &lt;img src=&quot;http://localhost/~truist/rainskiwiki//tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;
+
+
+&lt;a href=&quot;http://localhost/~truist/rainskiwiki//tag/../blog/622/laptop-bag-40-backlogs-and-story-form.html#more&quot;&gt;Read more...&lt;/a&gt;
+
 	</content>
 
 

@@ -4,7 +4,7 @@
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
 <title>comments</title>
-<link>http://magnetic-babysitter.local/comments.html</link>
+<link>http://localhost/~truist/rainskiwiki//comments.html</link>
 <description>rainskiwikit.com</description>
 
 </channel>

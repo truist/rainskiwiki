@@ -205,15 +205,15 @@ any of the three listed pages:</p>
 </code></pre>
 
 <p>More often you will want to match any pages that have a particular thing in
-their name. You can do this using a glob pattern. &#8221;<code>*</code>&#8221; stands for any part
-of a page name, and &#8221;<code>?</code>&#8221; for any single letter of a page name. So this
+their name. You can do this using a glob pattern. "<code>*</code>" stands for any part
+of a page name, and "<code>?</code>" for any single letter of a page name. So this
 matches all pages about music, and any <a href="./subpage.html">SubPage</a>s of the SandBox, but does
 not match the SandBox itself:</p>
 
 <pre><code>*music* or SandBox/*
 </code></pre>
 
-<p>You can also prefix an item with &#8221;<code>!</code>&#8221; to skip pages that match it. So to
+<p>You can also prefix an item with "<code>!</code>" to skip pages that match it. So to
 match all pages except for Discussion pages and the SandBox:</p>
 
 <pre><code>* and !SandBox and !*/Discussion
@@ -222,42 +222,42 @@ match all pages except for Discussion pages and the SandBox:</p>
 <p>Some more elaborate limits can be added to what matches using these functions:</p>
 
 <ul>
-<li>&#8220;<code>glob(someglob)</code>&#8221; - matches pages and other files that match the given glob.
+<li>"<code>glob(someglob)</code>" - matches pages and other files that match the given glob.
 Just writing the glob by itself is actually a shorthand for this function.</li>
-<li>&#8220;<code>page(glob)</code>&#8221; - like <code>glob()</code>, but only matches pages, not other files</li>
-<li>&#8220;<code>link(page)</code>&#8221; - matches only pages that link to a given page (or glob)</li>
-<li>&#8220;<code>tagged(tag)</code>&#8221; - matches pages that are tagged or link to the given tag (or
+<li>"<code>page(glob)</code>" - like <code>glob()</code>, but only matches pages, not other files</li>
+<li>"<code>link(page)</code>" - matches only pages that link to a given page (or glob)</li>
+<li>"<code>tagged(tag)</code>" - matches pages that are tagged or link to the given tag (or
 tags matched by a glob)</li>
-<li>&#8220;<code>backlink(page)</code>&#8221; - matches only pages that a given page links to</li>
-<li>&#8220;<code>creation_month(month)</code>&#8221; - matches only files created on the given month
+<li>"<code>backlink(page)</code>" - matches only pages that a given page links to</li>
+<li>"<code>creation_month(month)</code>" - matches only files created on the given month
 number</li>
-<li>&#8220;<code>creation_day(mday)</code>&#8221; - or day of the month</li>
-<li>&#8220;<code>creation_year(year)</code>&#8221; - or year</li>
-<li>&#8220;<code>created_after(page)</code>&#8221; - matches only files created after the given page
+<li>"<code>creation_day(mday)</code>" - or day of the month</li>
+<li>"<code>creation_year(year)</code>" - or year</li>
+<li>"<code>created_after(page)</code>" - matches only files created after the given page
 was created</li>
-<li>&#8220;<code>created_before(page)</code>&#8221; - matches only files created before the given page
+<li>"<code>created_before(page)</code>" - matches only files created before the given page
 was created</li>
-<li>&#8220;<code>internal(glob)</code>&#8221; - like <code>glob()</code>, but matches even internal-use
+<li>"<code>internal(glob)</code>" - like <code>glob()</code>, but matches even internal-use
 pages that globs do not usually match.</li>
-<li>&#8220;<code>title(glob)</code>&#8221;, &#8221;<code>author(glob)</code>&#8221;, &#8221;<code>authorurl(glob)</code>&#8221;,
-&#8221;<code>license(glob)</code>&#8221;, &#8221;<code>copyright(glob)</code>&#8221;, &#8221;<code>guid(glob)</code>&#8221;
+<li>"<code>title(glob)</code>", "<code>author(glob)</code>", "<code>authorurl(glob)</code>",
+"<code>license(glob)</code>", "<code>copyright(glob)</code>", "<code>guid(glob)</code>"
 
 <ul>
 <li>match pages that have the given metadata, matching the specified glob.</li>
 </ul>
 </li>
-<li>&#8220;<code>user(username)</code>&#8221; - tests whether a modification is being made by a
+<li>"<code>user(username)</code>" - tests whether a modification is being made by a
 user with the specified username. If openid is enabled, an openid can also
 be put here. Glob patterns can be used in the username. For example,
 to match all openid users, use <code>user(*://*)</code></li>
-<li>&#8220;<code>admin()</code>&#8221; - tests whether a modification is being made by one of the
+<li>"<code>admin()</code>" - tests whether a modification is being made by one of the
 wiki admins.</li>
-<li>&#8220;<code>ip(address)</code>&#8221; - tests whether a modification is being made from the
+<li>"<code>ip(address)</code>" - tests whether a modification is being made from the
 specified IP address. Glob patterns can be used in the address. For
 example, <code>ip(127.0.0.*)</code></li>
-<li>&#8220;<code>comment(glob)</code>&#8221; - matches comments to a page matching the glob.</li>
-<li>&#8220;<code>comment_pending(glob)</code>&#8221; - matches unmoderated, pending comments.</li>
-<li>&#8220;<code>postcomment(glob)</code>&#8221; - matches only when comments are being
+<li>"<code>comment(glob)</code>" - matches comments to a page matching the glob.</li>
+<li>"<code>comment_pending(glob)</code>" - matches unmoderated, pending comments.</li>
+<li>"<code>postcomment(glob)</code>" - matches only when comments are being
 posted to a page matching the specified glob</li>
 </ul>
 
@@ -268,11 +268,11 @@ and were written in 2005:</p>
 <pre><code>blog/* and link(music) and creation_year(2005)
 </code></pre>
 
-<p>Note the use of &#8220;and&#8221; in the above example, that means that only pages that
-match each of the three expressions match the whole. Use &#8220;and&#8221; when you
-want to combine expression like that; &#8220;or&#8221; when it&#8217;s enough for a page to
-match one expression. Note that it doesn&#8217;t make sense to say &#8220;index and
-SandBox&#8221;, since no page can match both expressions.</p>
+<p>Note the use of "and" in the above example, that means that only pages that
+match each of the three expressions match the whole. Use "and" when you
+want to combine expression like that; "or" when it's enough for a page to
+match one expression. Note that it doesn't make sense to say "index and
+SandBox", since no page can match both expressions.</p>
 
 <p>More complex expressions can also be created, by using parentheses for
 grouping. For example, to match pages in a blog that are tagged with either
@@ -282,10 +282,10 @@ of two tags, use:</p>
 </code></pre>
 
 <p>Note that page names in PageSpecs are matched against the absolute
-filenames of the pages in the wiki, so a pagespec &#8220;foo&#8221; used on page
-&#8220;a/b&#8221; will not match a page named &#8220;a/foo&#8221; or &#8220;a/b/foo&#8221;. To match
+filenames of the pages in the wiki, so a pagespec "foo" used on page
+"a/b" will not match a page named "a/foo" or "a/b/foo". To match
 relative to the directory of the page containing the pagespec, you can
-use &#8221;./&#8221;. For example, &#8221;./foo&#8221; on page &#8220;a/b&#8221; matches page &#8220;a/foo&#8221;.</p>
+use "./". For example, "./foo" on page "a/b" matches page "a/foo".</p>
 
 <p>To indicate the name of the page the PageSpec is used in, you can
 use a single dot. For example, <code>link(.)</code> matches all the pages
@@ -330,7 +330,7 @@ Links:
 
 <div class="pagedate">
 Last edited <span class="relativedate" title="Mon, 08 Jul 2013 11:49:38 -0400">late Monday morning, July  8th, 2013</span>
-<!-- Created <span class="relativedate" title="Wed, 20 Oct 2010 18:53:50 -0400">Wednesday evening, October 20th, 2010</span> -->
+<!-- Created <span class="relativedate" title="Mon, 08 Jul 2013 11:49:38 -0400">late Monday morning, July  8th, 2013</span> -->
 </div>
 
 </div>
