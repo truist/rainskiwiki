@@ -53,14 +53,15 @@ add_plugins:
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files
-templatedir: /Users/truist/pkg/share/ikiwiki/templates
+#templatedir: /Users/truist/pkg/share/ikiwiki/templates
 # base wiki source location
-underlaydir: /Users/truist/pkg/share/ikiwiki/basewiki
+#underlaydir: /Users/truist/pkg/share/ikiwiki/basewiki
 # display verbose messages?
 #verbose: 1
 # log to syslog?
 #syslog: 1
 # create output files named page/index.html?
+# temporarily 0 for easy local file:/// browsing
 usedirs: 0
 # use '!'-prefixed preprocessor directives?
 prefix_directives: 1

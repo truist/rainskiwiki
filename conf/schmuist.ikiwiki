@@ -10,7 +10,7 @@
 # name of the wiki
 wikiname: rainskiwikit.com
 # contact email for wiki
-adminemail: narthur-website@rainskit.com
+adminemail: webmaster@rainskit.com
 # users who are wiki admins
 adminuser:
 - truist
@@ -27,7 +27,6 @@ url: http://magnetic-babysitter.local
 # filename of cgi wrapper to generate
 # cgi_wrapper: /Users/schmonz/Documents/trees/rainskiwiki/cgi/ikiwiki
 # mode for cgi_wrapper (can safely be made suid)
-# cgi_wrappermode: 06755
 cgi_wrappermode: 00755
 # number of seconds to delay CGI requests when overloaded
 cgi_overload_delay: ''
@@ -54,13 +53,13 @@ add_plugins:
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files
-templatedir: /usr/pkg/share/ikiwiki/templates
+#templatedir: /usr/pkg/share/ikiwiki/templates
 # base wiki source location
-underlaydir: /usr/pkg/share/ikiwiki/basewiki
+#underlaydir: /usr/pkg/share/ikiwiki/basewiki
 # display verbose messages?
 #verbose: 1
 # log to syslog?
-syslog: 1
+#syslog: 1
 # create output files named page/index.html?
 # temporarily 0 for easy local file:/// browsing
 usedirs: 0
@@ -95,7 +94,7 @@ hardlink: 0
 # group for wrappers to run in
 #wrappergroup: ikiwiki
 # extra library and plugin directory
-# libdir: /home/schmonz/.ikiwiki
+#libdir: ''
 # environment variables
 ENV: {}
 # time zone name
@@ -148,7 +147,7 @@ atom: 1
 # allow atom feeds to be used?
 #allowatom: 0
 # urls to ping (using XML-RPC) on feed update
-#pingurl: http://rpc.technorati.com/rpc/ping
+#pingurl: []
 
 ######################################################################
 # auth plugins
@@ -215,7 +214,7 @@ locked_pages: '* and !postcomment(*)'
 
 ######################################################################
 # special-purpose plugins
-#   (osm)
+#   (osm, underlay)
 ######################################################################
 
 # osm plugin
@@ -237,6 +236,11 @@ locked_pages: '* and !postcomment(*)'
 # Google maps API key, Google layer not used if missing, see https://code.google.com/apis/console/ to get an API key
 #osm_google_apikey: ''
 
+# underlay plugin
+# extra underlay directories to add
+#add_underlays:
+#- /home/schmonz/wiki.underlay
+
 ######################################################################
 # web plugins
 #   (404, attachment, comments, editdiff, edittemplate, getsource, google,
@@ -254,15 +258,17 @@ locked_pages: '* and !postcomment(*)'
 # PageSpec of pages where comments are allowed
 comments_pagespec: posts/* and !*/Discussion
 # PageSpec of pages where posting new comments is not allowed
-#comments_closed_pagespec: blog/controversial or blog/flamewar
+#comments_closed_pagespec: ''
 # Base name for comments, e.g. "comment_" for pages like "sandbox/comment_12"
-#comments_pagename: ''
+#comments_pagename: comment_
 # Interpret directives in comments?
 #comments_allowdirectives: 0
 # Allow anonymous commenters to set an author name?
 #comments_allowauthor: 0
 # commit comments to the VCS
 #comments_commit: 1
+# Restrict formats for comments to (no restriction if empty)
+#comments_allowformats: ''
 
 # getsource plugin
 # Mime type for returned source.
@@ -270,7 +276,9 @@ comments_pagespec: posts/* and !*/Discussion
 
 # mirrorlist plugin
 # list of mirrors
-#mirrorlist: {}
+#mirrorlist:
+#  new.rainskit.com: http://new.rainskit.com
+
 # generate links that point to the mirrors' ikiwiki CGI
 #mirrorlist_use_cgi: 1
 
@@ -281,7 +289,6 @@ comments_pagespec: posts/* and !*/Discussion
 
 # search plugin
 # path to the omega cgi program
-#omega_cgi: /usr/lib/cgi-bin/omega/omega
 omega_cgi: /usr/pkg/libexec/cgi-bin/xapian-omega
 
 # theme plugin
@@ -343,7 +350,7 @@ archive_pagespec: page(posts/*) and !*/Discussion
 #    filecheck, flattr, goodstuff, htmlbalance, localstyle, notifyemail,
 #    pagetemplate, pingee, pinger, prettydate, recentchanges,
 #    recentchangesdiff, relativedate, rsync, sidebar, smiley,
-#    sortnaturally, tag, testpagespec, trail, transient, underlay)
+#    sortnaturally, tag, testpagespec, trail, transient)
 ######################################################################
 
 # aggregate plugin
@@ -396,8 +403,3 @@ tagbase: tag
 tag_autocreate: 1
 # commit autocreated tag pages
 tag_autocreate_commit: 1
-
-# underlay plugin
-# extra underlay directories to add
-#add_underlays:
-#- /home/schmonz/wiki.underlay
