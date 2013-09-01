@@ -1,4 +1,6 @@
 
+-- http://ikiwiki.info/convert/ (none are for txp, but maybe good examples)
+
 -- http://www.textpattern.net/wiki/index.php?title=Database_Schema_Reference
 
 -- these are all the articles and fields that matter to me:
