@@ -99,8 +99,12 @@ rainskiwiki
 * quote attributions
 * date stamps
 * comments
-* (convert textile to markdown?)
-* (new articles in markdown?)
+    * `<smcv> for an automated import from a different engine,
+      ${page}/$config{comments_pagename}${sequence} is fine`
+    * `<smcv> all the plugin actually cares about is that it ends
+      with ._comment (and starting with $config{comments_pagename}
+      is also good)`
+* (convert textile to markdown?) * (new articles in markdown?)
 
 ### (aggregate twitter into blog)
 
