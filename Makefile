@@ -1,7 +1,5 @@
-default: test
+default: build
 
-test:
-	/usr/pkg/bin/prove
+build:
+	ikiwiki --setup conf/${USER}.ikiwiki
 
-pherkin:
-	/usr/pkg/bin/pherkin

@@ -94,9 +94,9 @@ templates
 
 <div><div class="calendar"><table class="month-calendar">
     <tr>
-    <th class="month-calendar-arrow"><a href="./archives/2013/07.html" title="July">&larr;</a></th>
-    <th class="month-calendar-head" colspan="5"><a href="./archives/2013/08.html" title="August">Aug 2013</a></th>
-    <th class="month-calendar-arrow"><a href="./archives/2013/09.html" title="September">&rarr;</a></th>
+    <th class="month-calendar-arrow"><a href="./archives/2013/12.html" title="December">&larr;</a></th>
+    <th class="month-calendar-head" colspan="5">January 2014</th>
+    <th class="month-calendar-arrow"></th>
     </tr>
     <tr>
         <th class="month-calendar-day-head Sunday" title="Sunday">S</th>
@@ -111,46 +111,46 @@ templates
         <td class="month-calendar-day-noday Sunday">&nbsp;</td>
         <td class="month-calendar-day-noday Monday">&nbsp;</td>
         <td class="month-calendar-day-noday Tuesday">&nbsp;</td>
-        <td class="month-calendar-day-noday Wednesday">&nbsp;</td>
-        <td class="month-calendar-day-nolink Thursday">1</td>
-        <td class="month-calendar-day-nolink Friday">2</td>
-        <td class="month-calendar-day-nolink Saturday">3</td>
+        <td class="month-calendar-day-nolink Wednesday">1</td>
+        <td class="month-calendar-day-nolink Thursday">2</td>
+        <td class="month-calendar-day-nolink Friday">3</td>
+        <td class="month-calendar-day-nolink Saturday">4</td>
     </tr>
     <tr>
-        <td class="month-calendar-day-nolink Sunday">4</td>
-        <td class="month-calendar-day-nolink Monday">5</td>
-        <td class="month-calendar-day-nolink Tuesday">6</td>
-        <td class="month-calendar-day-nolink Wednesday">7</td>
-        <td class="month-calendar-day-nolink Thursday">8</td>
-        <td class="month-calendar-day-nolink Friday">9</td>
-        <td class="month-calendar-day-nolink Saturday">10</td>
+        <td class="month-calendar-day-nolink Sunday">5</td>
+        <td class="month-calendar-day-nolink Monday">6</td>
+        <td class="month-calendar-day-nolink Tuesday">7</td>
+        <td class="month-calendar-day-nolink Wednesday">8</td>
+        <td class="month-calendar-day-nolink Thursday">9</td>
+        <td class="month-calendar-day-this-day Friday">10</td>
+        <td class="month-calendar-day-future Saturday">11</td>
     </tr>
     <tr>
-        <td class="month-calendar-day-nolink Sunday">11</td>
-        <td class="month-calendar-day-nolink Monday">12</td>
-        <td class="month-calendar-day-nolink Tuesday">13</td>
-        <td class="month-calendar-day-nolink Wednesday">14</td>
-        <td class="month-calendar-day-nolink Thursday">15</td>
-        <td class="month-calendar-day-nolink Friday">16</td>
-        <td class="month-calendar-day-nolink Saturday">17</td>
+        <td class="month-calendar-day-nolink Sunday">12</td>
+        <td class="month-calendar-day-nolink Monday">13</td>
+        <td class="month-calendar-day-nolink Tuesday">14</td>
+        <td class="month-calendar-day-nolink Wednesday">15</td>
+        <td class="month-calendar-day-nolink Thursday">16</td>
+        <td class="month-calendar-day-nolink Friday">17</td>
+        <td class="month-calendar-day-nolink Saturday">18</td>
     </tr>
     <tr>
-        <td class="month-calendar-day-nolink Sunday">18</td>
-        <td class="month-calendar-day-nolink Monday">19</td>
-        <td class="month-calendar-day-nolink Tuesday">20</td>
-        <td class="month-calendar-day-nolink Wednesday">21</td>
-        <td class="month-calendar-day-nolink Thursday">22</td>
-        <td class="month-calendar-day-nolink Friday">23</td>
-        <td class="month-calendar-day-nolink Saturday">24</td>
+        <td class="month-calendar-day-nolink Sunday">19</td>
+        <td class="month-calendar-day-nolink Monday">20</td>
+        <td class="month-calendar-day-nolink Tuesday">21</td>
+        <td class="month-calendar-day-nolink Wednesday">22</td>
+        <td class="month-calendar-day-nolink Thursday">23</td>
+        <td class="month-calendar-day-nolink Friday">24</td>
+        <td class="month-calendar-day-nolink Saturday">25</td>
     </tr>
     <tr>
-        <td class="month-calendar-day-nolink Sunday">25</td>
-        <td class="month-calendar-day-nolink Monday">26</td>
-        <td class="month-calendar-day-nolink Tuesday">27</td>
-        <td class="month-calendar-day-nolink Wednesday">28</td>
-        <td class="month-calendar-day-nolink Thursday">29</td>
-        <td class="month-calendar-day-nolink Friday">30</td>
-        <td class="month-calendar-day-this-day Saturday">31</td>
+        <td class="month-calendar-day-nolink Sunday">26</td>
+        <td class="month-calendar-day-nolink Monday">27</td>
+        <td class="month-calendar-day-nolink Tuesday">28</td>
+        <td class="month-calendar-day-nolink Wednesday">29</td>
+        <td class="month-calendar-day-nolink Thursday">30</td>
+        <td class="month-calendar-day-nolink Friday">31</td>
+        <td class="month-calendar-day-noday Saturday">&nbsp;</td>
     </tr>
 </table>
 </div></div>
@@ -202,7 +202,7 @@ easy to learn. All you really need to know to modify templates is this:</p>
 <li>To insert the value of a template variable, use <code>&lt;TMPL_VAR variable&gt;</code>.</li>
 <li>To make a block of text conditional on a variable being set use
 <code>&lt;TMPL_IF variable&gt;text&lt;/TMPL_IF&gt;</code>.</li>
-<li>To use one block of text if a variable is set and a second if it&#8217;s not,
+<li>To use one block of text if a variable is set and a second if it's not,
 use <code>&lt;TMPL_IF variable&gt;text&lt;TMPL_ELSE&gt;other text&lt;/TMPL_IF&gt;</code></li>
 </ul>
 
@@ -239,7 +239,7 @@ They can contain html that would not normally be allowed on a wiki page.</p>
 <p>Template files are located in <code>/usr/share/ikiwiki/templates</code> by default;
 the <code>templatedir</code> setting can be used to make another directory be
 searched first. Customised template files can also be placed inside the
-&#8220;templates/&#8221; directory in your wiki&#8217;s source &#8212; files placed there override
+"templates/" directory in your wiki's source -- files placed there override
 ones in the <code>templatedir</code>.</p>
 
 <p>Here is a full list of the template files used:</p>
@@ -277,7 +277,7 @@ changed pages.</li>
 <li><code>editpage.tmpl</code>, <code>editconflict.tmpl</code>, <code>editcreationconflict.tmpl</code>,
 <code>editfailedsave.tmpl</code>, <code>editpagegone.tmpl</code>, <code>pocreatepage.tmpl</code>,
 <code>editcomment.tmpl</code> <code>commentmoderation.tmpl</code>, <code>renamesummary.tmpl</code>,
-<code>passwordmail.tmpl</code>, <code>openid-selector.tmpl</code>, <code>revert.tmpl</code> - Parts of ikiwiki&#8217;s user
+<code>passwordmail.tmpl</code>, <code>openid-selector.tmpl</code>, <code>revert.tmpl</code> - Parts of ikiwiki's user
 interface; do not normally need to be customised.</li>
 </ul>
 
