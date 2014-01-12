@@ -2,8 +2,8 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>pages tagged someothertag</title>
-<link href="http://localhost/~truist/rainskiwiki//tag/someothertag.html"/>
-<link href="http://localhost/~truist/rainskiwiki//tag/someothertag.atom" rel="self" type="application/atom+xml"/>
+<link href="http://magnetic-babysitter.local/tag/someothertag.html"/>
+<link href="http://magnetic-babysitter.local/tag/someothertag.atom" rel="self" type="application/atom+xml"/>
 <author>
 
 <name>rainskiwikit.com</name>
@@ -13,7 +13,7 @@
 
 
 
-<id>http://localhost/~truist/rainskiwiki//tag/someothertag.html</id>
+<id>http://magnetic-babysitter.local/tag/someothertag.html</id>
 
 <subtitle type="html">rainskiwikit.com</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>

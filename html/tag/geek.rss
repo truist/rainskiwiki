@@ -4,16 +4,18 @@
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
 <title>pages tagged geek</title>
-<link>http://localhost/~truist/rainskiwiki//tag/geek.html</link>
-<description>rainskiwikit.com</description>
-<item>
+<link>http://magnetic-babysitter.local/tag/geek.html</link>
 
+<description>rainskiwikit.com</description>
+<generator>ikiwiki</generator>
+<pubDate>Sat, 31 Aug 2013 16:24:01 -0400</pubDate>
+<item>
 	<title>How I manage my inbox</title>
 
+	<guid isPermaLink="false">http://magnetic-babysitter.local/blog/628/how-i-manage-my-inbox.html</guid>
 
-	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//blog/628/how-i-manage-my-inbox.html</guid>
+	<link>http://magnetic-babysitter.local/blog/628/how-i-manage-my-inbox.html</link>
 
-	<link>http://localhost/~truist/rainskiwiki//blog/628/how-i-manage-my-inbox.html</link>
 
 
 	<category>effectiveness</category>
@@ -22,7 +24,8 @@
 
 
 	<pubDate>Sat, 04 Aug 2012 00:00:00 -0400</pubDate>
-	<dcterms:modified>2013-08-31T20:29:33Z</dcterms:modified>
+	<dcterms:modified>2013-08-31T20:22:46Z</dcterms:modified>
+
 
 	<description>&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -33,7 +36,7 @@ out that some people think my email use patterns might have some useful ideas.
 It also happens to be the case that I&#39;m well-known for being good at keeping
 track of things, and my inbox is basically the way I do that, so maybe
 explaining my inbox will help people get better at keeping track of things. So
-here it is &lt;img src=&quot;http://localhost/~truist/rainskiwiki//tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
+here it is &lt;img src=&quot;http://magnetic-babysitter.local/tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;First rule: the only things in the inbox are things that are still underway,
 in real life. Once something is done, the email gets deleted, archived, or
@@ -144,7 +147,7 @@ probably would have a different approach in Outlook. (Gmail, obviously, rocks
 the search.)&lt;/p&gt;
 
 &lt;p&gt;I usually avoid &quot;distilling&quot; until I&#39;m ready to actually do the work. Too
-often, the requirements change by the time I get around to it &lt;img src=&quot;http://localhost/~truist/rainskiwiki//tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt; I just keep
+often, the requirements change by the time I get around to it &lt;img src=&quot;http://magnetic-babysitter.local/tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt; I just keep
 the latest email in the thread (which is a pain in Outlook, but zero work in
 Gmail).&lt;/p&gt;
 
@@ -169,13 +172,12 @@ that I stopped saving all email, a few years ago.&lt;/p&gt;
 
 </item>
 <item>
-
 	<title>Laptop bag 4.0, backlogs, and story form</title>
 
+	<guid isPermaLink="false">http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form.html</guid>
 
-	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//blog/622/laptop-bag-40-backlogs-and-story-form.html</guid>
+	<link>http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form.html</link>
 
-	<link>http://localhost/~truist/rainskiwiki//blog/622/laptop-bag-40-backlogs-and-story-form.html</link>
 
 
 	<category>agile</category>
@@ -198,23 +200,19 @@ that I stopped saving all email, a few years ago.&lt;/p&gt;
 
 
 	<pubDate>Tue, 22 May 2012 00:00:00 -0400</pubDate>
-	<dcterms:modified>2013-08-31T20:01:47Z</dcterms:modified>
-
-	<description>
+	<dcterms:modified>2013-08-31T20:24:01Z</dcterms:modified>
 
 
+	<description>&lt;p&gt;Somewhere out there is a laptop bag just waiting for me to find it.  But first, I have to spec it out.&lt;/p&gt;
 
-Somewhere out there is a laptop bag just waiting for me to find it.  But first, I have to spec it out.
+&lt;p&gt;Like &lt;a href=&quot;http://www.randsinrepose.com/&quot;&gt;Rands&lt;/a&gt;, I recently got &lt;a href=&quot;http://www.randsinrepose.com/archives/2011/12/04/a_bag_of_holding.html&quot;&gt;laptop bag religion&lt;/a&gt; and I spent an excessive amount of time cogitating about features, price, tradeoffs, where to buy, and features again.&lt;/p&gt;
 
-Like &quot;Rands&quot;:http://www.randsinrepose.com/, I recently got &quot;laptop bag religion&quot;:http://www.randsinrepose.com/archives/2011/12/04/a_bag_of_holding.html and I spent an excessive amount of time cogitating about features, price, tradeoffs, where to buy, and features again.
+&lt;p&gt;Then I got serious about it.&lt;/p&gt;
 
-Then I got serious about it.
-
-I haven&#39;t yet found the bag, but in the meantime, I&#39;ve written this blog post, because it provided the excuse I needed to really -go batshit insane- do a thorough job of my analysis.  Not only does this post include a detailed list of requirements for my perfect laptop bag, but it also includes a glance into what I do in my life as a &quot;Product Manager&quot;:http://www.rainskit.com/blog/586/what-i-do.  Hopefully one or the other of those is interesting enough to keep your attention &lt;img src=&quot;http://localhost/~truist/rainskiwiki//tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;
+&lt;p&gt;I haven&amp;#39;t yet found the bag, but in the meantime, I&amp;#39;ve written this blog post, because it provided the excuse I needed to really &lt;del&gt;go batshit insane&lt;/del&gt; do a thorough job of my analysis.  Not only does this post include a detailed list of requirements for my perfect laptop bag, but it also includes a glance into what I do in my life as a &lt;a href=&quot;http://www.rainskit.com/blog/586/what-i-do&quot;&gt;Product Manager&lt;/a&gt;.  Hopefully one or the other of those is interesting enough to keep your attention &lt;img src=&quot;http://magnetic-babysitter.local/tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
 
 
-&lt;a href=&quot;http://localhost/~truist/rainskiwiki//tag/../blog/622/laptop-bag-40-backlogs-and-story-form.html#more&quot;&gt;Read more...&lt;/a&gt;
-</description>
+&lt;p&gt;&lt;a href=&quot;http://magnetic-babysitter.local/tag/../blog/622/laptop-bag-40-backlogs-and-story-form.html#more&quot;&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
 
 
 </item>

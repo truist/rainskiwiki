@@ -4,23 +4,26 @@
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
 <title>rainskiwikit.com</title>
-<link>http://localhost/~truist/rainskiwiki//index.html</link>
-<description>rainskiwikit.com</description>
-<item>
+<link>http://magnetic-babysitter.local/index.html</link>
 
+<description>rainskiwikit.com</description>
+<generator>ikiwiki</generator>
+<pubDate>Sat, 31 Aug 2013 16:45:27 -0400</pubDate>
+<item>
 	<title>This year for Lent...</title>
 
+	<guid isPermaLink="false">http://magnetic-babysitter.local/blog/630/this-year-for-lent.html</guid>
 
-	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//blog/630/this-year-for-lent.html</guid>
+	<link>http://magnetic-babysitter.local/blog/630/this-year-for-lent.html</link>
 
-	<link>http://localhost/~truist/rainskiwiki//blog/630/this-year-for-lent.html</link>
 
 
 	<category>lent</category>
 
 
 	<pubDate>Tue, 12 Feb 2013 00:00:00 -0500</pubDate>
-	<dcterms:modified>2013-08-31T20:29:33Z</dcterms:modified>
+	<dcterms:modified>2013-08-31T20:45:27Z</dcterms:modified>
+
 
 	<description>&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -28,7 +31,7 @@
 
 &lt;p&gt;…I&#39;ll be giving up staying up late. (Starting tomorrow, the first day of
 Lent.) For me, that means I&#39;ll be in bed by 11pm every night of Lent. This
-year will be a &lt;em&gt;serious&lt;/em&gt; test of my self-discipline &lt;img src=&quot;http://localhost/~truist/rainskiwiki//./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
+year will be a &lt;em&gt;serious&lt;/em&gt; test of my self-discipline &lt;img src=&quot;http://magnetic-babysitter.local/./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Confused about why I&#39;m doing this? See &lt;a href=&quot;http://www.rainskit.com/tag/lent/&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -36,13 +39,12 @@ year will be a &lt;em&gt;serious&lt;/em&gt; test of my self-discipline &lt;img s
 
 </item>
 <item>
-
 	<title>10 Questions a Pro-Choice Candidate Is Never Asked by the Media</title>
 
+	<guid isPermaLink="false">http://magnetic-babysitter.local/blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media.html</guid>
 
-	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media.html</guid>
+	<link>http://magnetic-babysitter.local/blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media.html</link>
 
-	<link>http://localhost/~truist/rainskiwiki//blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media.html</link>
 
 
 	<category>abortion</category>
@@ -55,7 +57,8 @@ year will be a &lt;em&gt;serious&lt;/em&gt; test of my self-discipline &lt;img s
 
 
 	<pubDate>Thu, 25 Oct 2012 00:00:00 -0400</pubDate>
-	<dcterms:modified>2013-08-31T20:46:44Z</dcterms:modified>
+	<dcterms:modified>2013-08-31T20:45:09Z</dcterms:modified>
+
 
 	<description>&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -78,19 +81,18 @@ those opinions here.&lt;/p&gt;
 
 &lt;h4&gt;1. You say you support a woman’s right to make her own reproductive choices in regards to abortion and contraception. Are there any restrictions you would approve of?&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost/~truist/rainskiwiki//./blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media.html#more&quot;&gt;Read more...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://magnetic-babysitter.local/./blog/629/10-questions-a-pro-choice-candidate-is-never-asked-by-the-media.html#more&quot;&gt;Read more...&lt;/a&gt;&lt;/p&gt;
 </description>
 
 
 </item>
 <item>
-
 	<title>How I manage my inbox</title>
 
+	<guid isPermaLink="false">http://magnetic-babysitter.local/blog/628/how-i-manage-my-inbox.html</guid>
 
-	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//blog/628/how-i-manage-my-inbox.html</guid>
+	<link>http://magnetic-babysitter.local/blog/628/how-i-manage-my-inbox.html</link>
 
-	<link>http://localhost/~truist/rainskiwiki//blog/628/how-i-manage-my-inbox.html</link>
 
 
 	<category>effectiveness</category>
@@ -99,7 +101,8 @@ those opinions here.&lt;/p&gt;
 
 
 	<pubDate>Sat, 04 Aug 2012 00:00:00 -0400</pubDate>
-	<dcterms:modified>2013-08-31T20:29:33Z</dcterms:modified>
+	<dcterms:modified>2013-08-31T20:22:46Z</dcterms:modified>
+
 
 	<description>&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -110,7 +113,7 @@ out that some people think my email use patterns might have some useful ideas.
 It also happens to be the case that I&#39;m well-known for being good at keeping
 track of things, and my inbox is basically the way I do that, so maybe
 explaining my inbox will help people get better at keeping track of things. So
-here it is &lt;img src=&quot;http://localhost/~truist/rainskiwiki//./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
+here it is &lt;img src=&quot;http://magnetic-babysitter.local/./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;First rule: the only things in the inbox are things that are still underway,
 in real life. Once something is done, the email gets deleted, archived, or
@@ -221,7 +224,7 @@ probably would have a different approach in Outlook. (Gmail, obviously, rocks
 the search.)&lt;/p&gt;
 
 &lt;p&gt;I usually avoid &quot;distilling&quot; until I&#39;m ready to actually do the work. Too
-often, the requirements change by the time I get around to it &lt;img src=&quot;http://localhost/~truist/rainskiwiki//./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt; I just keep
+often, the requirements change by the time I get around to it &lt;img src=&quot;http://magnetic-babysitter.local/./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt; I just keep
 the latest email in the thread (which is a pain in Outlook, but zero work in
 Gmail).&lt;/p&gt;
 
@@ -246,13 +249,12 @@ that I stopped saving all email, a few years ago.&lt;/p&gt;
 
 </item>
 <item>
-
 	<title>Apple vs. Dell/Microsoft</title>
 
+	<guid isPermaLink="false">http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html</guid>
 
-	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//blog/624/apple-vs-dell-microsoft.html</guid>
+	<link>http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html</link>
 
-	<link>http://localhost/~truist/rainskiwiki//blog/624/apple-vs-dell-microsoft.html</link>
 
 
 	<category>apple</category>
@@ -263,7 +265,8 @@ that I stopped saving all email, a few years ago.&lt;/p&gt;
 
 
 	<pubDate>Fri, 27 Jul 2012 00:00:00 -0400</pubDate>
-	<dcterms:modified>2013-08-31T20:29:33Z</dcterms:modified>
+	<dcterms:modified>2013-08-31T20:22:06Z</dcterms:modified>
+
 
 	<description>&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -342,19 +345,18 @@ what I&#39;m doing and after that return to my prior settings automatically.&lt;
 
 &lt;p&gt;(And &lt;a href=&quot;http://lightheadsw.com/caffeine/&quot;&gt;Caffeine&lt;/a&gt; for non-lid-closed cases)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost/~truist/rainskiwiki//./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://magnetic-babysitter.local/./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
 </description>
 
 
 </item>
 <item>
-
 	<title>Laptop bag 4.0, backlogs, and story form</title>
 
+	<guid isPermaLink="false">http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form.html</guid>
 
-	<guid isPermaLink="false">http://localhost/~truist/rainskiwiki//blog/622/laptop-bag-40-backlogs-and-story-form.html</guid>
+	<link>http://magnetic-babysitter.local/blog/622/laptop-bag-40-backlogs-and-story-form.html</link>
 
-	<link>http://localhost/~truist/rainskiwiki//blog/622/laptop-bag-40-backlogs-and-story-form.html</link>
 
 
 	<category>agile</category>
@@ -377,23 +379,19 @@ what I&#39;m doing and after that return to my prior settings automatically.&lt;
 
 
 	<pubDate>Tue, 22 May 2012 00:00:00 -0400</pubDate>
-	<dcterms:modified>2013-08-31T20:01:47Z</dcterms:modified>
-
-	<description>
+	<dcterms:modified>2013-08-31T20:24:01Z</dcterms:modified>
 
 
+	<description>&lt;p&gt;Somewhere out there is a laptop bag just waiting for me to find it.  But first, I have to spec it out.&lt;/p&gt;
 
-Somewhere out there is a laptop bag just waiting for me to find it.  But first, I have to spec it out.
+&lt;p&gt;Like &lt;a href=&quot;http://www.randsinrepose.com/&quot;&gt;Rands&lt;/a&gt;, I recently got &lt;a href=&quot;http://www.randsinrepose.com/archives/2011/12/04/a_bag_of_holding.html&quot;&gt;laptop bag religion&lt;/a&gt; and I spent an excessive amount of time cogitating about features, price, tradeoffs, where to buy, and features again.&lt;/p&gt;
 
-Like &quot;Rands&quot;:http://www.randsinrepose.com/, I recently got &quot;laptop bag religion&quot;:http://www.randsinrepose.com/archives/2011/12/04/a_bag_of_holding.html and I spent an excessive amount of time cogitating about features, price, tradeoffs, where to buy, and features again.
+&lt;p&gt;Then I got serious about it.&lt;/p&gt;
 
-Then I got serious about it.
-
-I haven&#39;t yet found the bag, but in the meantime, I&#39;ve written this blog post, because it provided the excuse I needed to really -go batshit insane- do a thorough job of my analysis.  Not only does this post include a detailed list of requirements for my perfect laptop bag, but it also includes a glance into what I do in my life as a &quot;Product Manager&quot;:http://www.rainskit.com/blog/586/what-i-do.  Hopefully one or the other of those is interesting enough to keep your attention &lt;img src=&quot;http://localhost/~truist/rainskiwiki//./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;
+&lt;p&gt;I haven&amp;#39;t yet found the bag, but in the meantime, I&amp;#39;ve written this blog post, because it provided the excuse I needed to really &lt;del&gt;go batshit insane&lt;/del&gt; do a thorough job of my analysis.  Not only does this post include a detailed list of requirements for my perfect laptop bag, but it also includes a glance into what I do in my life as a &lt;a href=&quot;http://www.rainskit.com/blog/586/what-i-do&quot;&gt;Product Manager&lt;/a&gt;.  Hopefully one or the other of those is interesting enough to keep your attention &lt;img src=&quot;http://magnetic-babysitter.local/./smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
 
 
-&lt;a href=&quot;http://localhost/~truist/rainskiwiki//./blog/622/laptop-bag-40-backlogs-and-story-form.html#more&quot;&gt;Read more...&lt;/a&gt;
-</description>
+&lt;p&gt;&lt;a href=&quot;http://magnetic-babysitter.local/./blog/622/laptop-bag-40-backlogs-and-story-form.html#more&quot;&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
 
 
 </item>

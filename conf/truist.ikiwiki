@@ -50,7 +50,7 @@ add_plugins:
 - theme
 - typography
 # plugins to disable
-disable_plugins: 
+disable_plugins:
 - recentchanges
 # additional directory to search for template files
 #templatedir: /Users/truist/pkg/share/ikiwiki/templates

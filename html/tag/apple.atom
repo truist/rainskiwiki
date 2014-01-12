@@ -2,8 +2,8 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
 <title>pages tagged apple</title>
-<link href="http://localhost/~truist/rainskiwiki//tag/apple.html"/>
-<link href="http://localhost/~truist/rainskiwiki//tag/apple.atom" rel="self" type="application/atom+xml"/>
+<link href="http://magnetic-babysitter.local/tag/apple.html"/>
+<link href="http://magnetic-babysitter.local/tag/apple.atom" rel="self" type="application/atom+xml"/>
 <author>
 
 <name>rainskiwikit.com</name>
@@ -13,17 +13,17 @@
 
 
 
-<id>http://localhost/~truist/rainskiwiki//tag/apple.html</id>
+<id>http://magnetic-babysitter.local/tag/apple.html</id>
 
 <subtitle type="html">rainskiwikit.com</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2013-08-31T20:29:33Z</updated>
+<updated>2013-08-31T20:22:06Z</updated>
 <entry>
 	<title>Apple vs. Dell/Microsoft</title>
 
-	<id>http://localhost/~truist/rainskiwiki//blog/624/apple-vs-dell-microsoft.html</id>
+	<id>http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html</id>
 
-	<link href="http://localhost/~truist/rainskiwiki//blog/624/apple-vs-dell-microsoft.html"/>
+	<link href="http://magnetic-babysitter.local/blog/624/apple-vs-dell-microsoft.html"/>
 
 
 
@@ -37,8 +37,9 @@
 	<category term="usability" />
 
 
-	<updated>2013-08-31T20:29:33Z</updated>
+	<updated>2013-08-31T20:22:06Z</updated>
 	<published>2012-07-27T04:00:00Z</published>
+
 
 	<content type="html" xml:lang="en">
 	&lt;p&gt;&lt;a href=&quot;http://www.rainskit.com/&quot;&gt; &lt;/a&gt;&lt;/p&gt;
@@ -118,7 +119,7 @@ what I&#39;m doing and after that return to my prior settings automatically.&lt;
 
 &lt;p&gt;(And &lt;a href=&quot;http://lightheadsw.com/caffeine/&quot;&gt;Caffeine&lt;/a&gt; for non-lid-closed cases)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost/~truist/rainskiwiki//tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://magnetic-babysitter.local/tag/../smileys/smile.png&quot; alt=&quot;:)&quot; /&gt;&lt;/p&gt;
 
 	</content>
 

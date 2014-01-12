@@ -4,8 +4,11 @@
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
 <title>pages tagged someothertag</title>
-<link>http://localhost/~truist/rainskiwiki//tag/someothertag.html</link>
+<link>http://magnetic-babysitter.local/tag/someothertag.html</link>
+
 <description>rainskiwikit.com</description>
+<generator>ikiwiki</generator>
+<pubDate>Wed, 31 Dec 1969 19:00:00 -0500</pubDate>
 
 </channel>
 </rss>
