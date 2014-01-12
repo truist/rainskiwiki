@@ -1,4 +1,4 @@
-#head a#home, #head a#home:hover {
+.pageheader a#home, .pageheader a#home:hover {
   display: block;
   position: absolute;
   width: 100%;

@@ -2,32 +2,32 @@ body {
   background: #572816;
 }
 
-#page_layout {
+.page {
   background-image: url(/images/21.jpg);
   background-position: 62% 0;
   background-repeat: no-repeat;
 }
 
-.gallery #page_layout {
+.gallery .page {
   background-position: 62% -75px;
 }
 
-#head {
+.pageheader {
   border-bottom: 6px solid #572816;
 }
 
-#head a {
+.pageheader a {
   color: #EFE0B6;
   background-image: url(/images/24.png);
   border-top: 1px solid #EFE0B6;
   border-bottom: 2px solid transparent;
 }
 
-#head a:hover {
+.pageheader a:hover {
   background-color: #572816;
 }
 
-#head a.active, #head a:hover {
+.pageheader a.active, .pageheader a:hover {
   border-bottom: 2px solid #EFE0B6;
 }
 
@@ -36,7 +36,7 @@ body {
   padding: 1%;
 }
 
-#sidebar {
+.sidebar {
   background: #C25306;
   padding: 1%;
   background-image: url(/images/20.png);
@@ -58,15 +58,15 @@ body {
   color: #EFE0B6;
 }
 
-#sidebar .tag_cloud, #sidebar .tag_cloud a {
+.sidebar .tag_cloud, .sidebar .tag_cloud a {
   color: #EFE0B6;
 }
 
-#sidebar .tag_cloud a:hover, #sidebar .tag_cloud .tagActive {
+.sidebar .tag_cloud a:hover, .sidebar .tag_cloud .tagActive {
   background-color: #572816;
 }
 
-#sidebar p.cloud_footer_left, #sidebar p.cloud_footer_right, #sidebar p.cloud_footer a {
+.sidebar p.cloud_footer_left, .sidebar p.cloud_footer_right, .sidebar p.cloud_footer a {
   color: #572816;
 }
 

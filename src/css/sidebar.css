@@ -26,14 +26,14 @@
   display: none;
 }
 
-#sidebar p.tag_cloud {
+.sidebar p.tag_cloud {
   line-height: 2em;
   word-spacing: 0.2em;
   text-align: center;
   font-size: smaller;
 }
 
-#sidebar .tag_cloud a {
+.sidebar .tag_cloud a {
   text-decoration: none;
   padding: 0.1em;
 }

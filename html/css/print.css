@@ -2,7 +2,7 @@
   display: none;
 }
 
-#page_layout {
+.page {
   min-width: 0;
   width: 100%;
   max-width: none;

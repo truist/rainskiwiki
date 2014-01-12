@@ -1,11 +1,11 @@
-#page_layout {
+.page {
   min-width: 40em;
   width: 90%;
   max-width: 65em;
   margin: 0 auto;
 }
 
-#page_layout:after {
+.page:after {
   content: "."; 
   display: block; 
   height: 0; 
@@ -13,13 +13,13 @@
   visibility: hidden;
 }
 
-#head {
+.pageheader {
   position: relative;
   min-height: 220px;
   margin: 0;
 }
 
-.gallery #head {
+.gallery .pageheader {
   min-height: 145px;
 }
 
@@ -29,7 +29,7 @@
   min-height: 40em;
 }
 
-#sidebar {
+.sidebar {
   float: right;
   width: 36%;
 }
