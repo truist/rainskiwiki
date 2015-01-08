@@ -5,6 +5,17 @@ rainskiwiki
 
 ## TODO
 
+### Expected changes to [ikiwiki-import](https://github.com/schmonz/txp2ikiwiki)
+
+- MySQL table prefix (`txp_`)
+- site URL prefix (`/blog/`)
+- permalink mode (`id_title`)
+- article excerpts
+- `<txp:image />` (if you used it a whole bunch)
+- `tru_tags`
+- other plugins
+- other `<txp:foo />`
+
 ### Overall site template
 
 * archive page link
@@ -99,11 +110,6 @@ rainskiwiki
 * quote attributions
 * date stamps
 * comments
-    * `<smcv> for an automated import from a different engine,
-      ${page}/$config{comments_pagename}${sequence} is fine`
-    * `<smcv> all the plugin actually cares about is that it ends
-      with ._comment (and starting with $config{comments_pagename}
-      is also good)`
 * (convert textile to markdown?) * (new articles in markdown?)
 
 ### (aggregate twitter into blog)
