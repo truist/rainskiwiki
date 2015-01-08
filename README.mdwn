@@ -7,7 +7,6 @@ rainskiwiki
 
 ### Expected changes to [ikiwiki-import](https://github.com/schmonz/txp2ikiwiki)
 
-- article excerpts
 - `<txp:image />` (if you used it a whole bunch)
 - `tru_tags`
 - other plugins
