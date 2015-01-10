@@ -74,6 +74,11 @@ rainskiwiki
 
 * list of all tags in alpha order
 * list of all articles per tag, newest first
+* to tell ikiwiki how to autocreate archive-ready tag pages, figure
+  out the right `\[[!inline]]` params (maybe `template=titlepage`?),
+  then put it in your own `autotag.tmpl`
+* once tag pages look right, archive page is just `\[[!inline raw=yes
+  pages="tag/*"]]`
 
 ### Tag page features
 
